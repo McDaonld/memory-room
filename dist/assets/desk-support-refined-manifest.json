@@ -1,0 +1,163 @@
+{
+  "asset": "desk-support-refined.glb",
+  "version": 1,
+  "roots": [
+    "DeskSurfaceReplacementRoot",
+    "MemoirStandRoot"
+  ],
+  "replace": {
+    "desk-furniture": [
+      "Furniture_|_wood_gray_ash_laminate",
+      "Furniture_|_wood_edge_band_silver_ash"
+    ]
+  },
+  "desk": {
+    "oldBackZ": -0.48,
+    "newBackZ": -0.98,
+    "frontZ": 0.84,
+    "topY": 1.155,
+    "legVerticesUnchanged": true,
+    "components": [
+      {
+        "oldNode": "Furniture_|_wood_gray_ash_laminate",
+        "newNode": "Refined_desk_|_wood_gray_ash_laminate",
+        "movedVertices": 216,
+        "unchangedVertices": 648,
+        "parts": [
+          {
+            "minY": 1.0850000381469727,
+            "vertices": 56
+          },
+          {
+            "minY": 1.0679999589920044,
+            "vertices": 56
+          }
+        ]
+      },
+      {
+        "oldNode": "Furniture_|_wood_edge_band_silver_ash",
+        "newNode": "Refined_desk_|_wood_edge_band_silver_ash",
+        "movedVertices": 216,
+        "unchangedVertices": 432,
+        "parts": [
+          {
+            "minY": 1.087499976158142,
+            "vertices": 56
+          },
+          {
+            "minY": 1.0880000591278076,
+            "vertices": 56
+          },
+          {
+            "minY": 1.0880000591278076,
+            "vertices": 56
+          }
+        ]
+      }
+    ]
+  },
+  "memoir": {
+    "root": "autobiography",
+    "position": [
+      -1.100000023841858,
+      1.5048532485961914,
+      0.49000000953674316
+    ],
+    "quaternion": [
+      -0.0697564737441253,
+      0,
+      0,
+      0.9975640502598242
+    ],
+    "W": 0.47,
+    "H": 0.67,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "localBounds": {
+      "min": [
+        -0.016,
+        -0.344,
+        -0.023
+      ],
+      "max": [
+        0.478,
+        0.344,
+        0.048
+      ]
+    },
+    "standTopAtRearBookContact": 1.161,
+    "extraction": {
+      "waypointOffsets": [
+        [
+          0,
+          0.02,
+          0
+        ],
+        [
+          0,
+          0.02,
+          0.18
+        ],
+        [
+          0,
+          0.22,
+          0.18
+        ]
+      ],
+      "frontLipTopY": 1.179
+    }
+  },
+  "stand": {
+    "root": "MemoirStandRoot",
+    "rootPosition": [
+      0,
+      0,
+      0
+    ],
+    "rootQuaternion": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "worldBounds": {
+      "min": [
+        -1.1260000169277191,
+        1.1549999923445284,
+        0.3800000101327896
+      ],
+      "max": [
+        -0.6120000183582306,
+        1.5911403750754491,
+        0.6000000089406967
+      ]
+    },
+    "newDesignNotPhotoReconstruction": true
+  },
+  "recommendedExistingObjectCorrections": [
+    {
+      "remove": "DeskSmallObjectsRoot_|_aged_ivory_ceramic"
+    },
+    {
+      "root": "LeftBlueWhitePenCupHollowBody",
+      "delta": [
+        0,
+        -0.00699994,
+        0
+      ]
+    },
+    {
+      "root": "LeftPaleWoodPenStand_|_light_wood_frame",
+      "delta": [
+        0,
+        -0.005000004,
+        0
+      ]
+    }
+  ],
+  "publicDemo": true,
+  "assetNotice": "Compatibility identifiers and layout only. Public assets are generic procedural replacements."
+}

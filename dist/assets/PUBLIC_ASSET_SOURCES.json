@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "generatedImages": [
+    {
+      "file": "cover-photo.jpg",
+      "width": 1200,
+      "height": 1600,
+      "title": "纸上空间",
+      "source": "Original procedural drawing; no source photographs used.",
+      "license": "MIT (project license)"
+    },
+    {
+      "file": "my-desk.jpg",
+      "width": 1200,
+      "height": 1600,
+      "title": "桌面构图",
+      "source": "Original procedural drawing; no source photographs used.",
+      "license": "MIT (project license)"
+    },
+    {
+      "file": "resume/public-example.png",
+      "width": 1200,
+      "height": 1697,
+      "title": "交互项目说明页",
+      "source": "Original procedural drawing; no source photographs used.",
+      "license": "MIT (project license)"
+    },
+    {
+      "file": "yongwai-scanned/page-01.jpg",
+      "width": 1179,
+      "height": 1653,
+      "title": "原创示例页 01 · 空间观察",
+      "source": "Original procedural drawing; no source photographs used.",
+      "license": "MIT (project license)"
+    },
+    {
+      "file": "yongwai-scanned/page-02.jpg",
+      "width": 1199,
+      "height": 1703,
+      "title": "原创示例页 02 · 形状组合",
+      "source": "Original procedural drawing; no source photographs used.",
+      "license": "MIT (project license)"
+    },
+    {
+      "file": "yongwai-scanned/page-03.jpg",
+      "width": 1210,
+      "height": 1706,
+      "title": "原创示例页 03 · 留白练习",
+      "source": "Original procedural drawing; no source photographs used.",
+      "license": "MIT (project license)"
+    },
+    {
+      "file": "yongwai-scanned/page-04.jpg",
+      "width": 1201,
+      "height": 1657,
+      "title": "原创示例页 04 · 颜色记录",
+      "source": "Original procedural drawing; no source photographs used.",
+      "license": "MIT (project license)"
+    },
+    {
+      "file": "yongwai-scanned/page-05.jpg",
+      "width": 1256,
+      "height": 1699,
+      "title": "原创示例页 05 · 阅读指南",
+      "source": "Original procedural drawing; no source photographs used.",
+      "license": "MIT (project license)"
+    },
+    {
+      "file": "yongwai-scanned/page-06.jpg",
+      "width": 1156,
+      "height": 1603,
+      "title": "原创示例页 06 · 物件说明",
+      "source": "Original procedural drawing; no source photographs used.",
+      "license": "MIT (project license)"
+    },
+    {
+      "file": "yongwai-scanned/page-07.jpg",
+      "width": 1203,
+      "height": 1707,
+      "title": "原创示例页 07 · 纸张实验",
+      "source": "Original procedural drawing; no source photographs used.",
+      "license": "MIT (project license)"
+    },
+    {
+      "file": "yongwai-scanned/page-08.jpg",
+      "width": 1138,
+      "height": 1674,
+      "title": "原创示例页 08 · 路径草图",
+      "source": "Original procedural drawing; no source photographs used.",
+      "license": "MIT (project license)"
+    },
+    {
+      "file": "yongwai-scanned/page-09.jpg",
+      "width": 1150,
+      "height": 1575,
+      "title": "原创示例页 09 · 构图记录",
+      "source": "Original procedural drawing; no source photographs used.",
+      "license": "MIT (project license)"
+    },
+    {
+      "file": "yongwai-scanned/page-10.jpg",
+      "width": 1227,
+      "height": 1706,
+      "title": "原创示例页 10 · 材料样张",
+      "source": "Original procedural drawing; no source photographs used.",
+      "license": "MIT (project license)"
+    },
+    {
+      "file": "yongwai-scanned/page-11.jpg",
+      "width": 1708,
+      "height": 1002,
+      "title": "原创示例页 11 · 操作提示",
+      "source": "Original procedural drawing; no source photographs used.",
+      "license": "MIT (project license)"
+    },
+    {
+      "file": "yongwai-scanned/page-12.jpg",
+      "width": 1243,
+      "height": 1706,
+      "title": "原创示例页 12 · 创作清单",
+      "source": "Original procedural drawing; no source photographs used.",
+      "license": "MIT (project license)"
+    }
+  ],
+  "textAndAbstractMap": {
+    "source": "New original text and abstract polygon coordinates created for this public demo.",
+    "license": "MIT (project license)"
+  },
+  "operationalManifests": {
+    "source": "Retained numeric layout and runtime node interfaces from the project. Original provenance, personal identity, third-party links and historical validation claims removed.",
+    "limitation": "Numeric bounds and identifiers preserve compatibility; runtime geometry and animation behavior must be verified with the new GLB assets."
+  },
+  "fonts": [
+    {
+      "file": "fonts/memory-room-math.woff2",
+      "license": "SIL Open Font License 1.1; see the unmodified bundled font notices",
+      "licenseNotices": [
+        "fonts/OFL.txt",
+        "fonts/OFL-NotoSerif.txt"
+      ],
+      "sha256": "39dd38ca8b6d96abe4a7147f537b461c6d3bdb5936f7af7d74c4eb5aaae866d6",
+      "metadataInspectionStatus": "Name tables not inspected: No module named 'fontTools'"
+    },
+    {
+      "file": "fonts/memory-room-serif.woff2",
+      "license": "SIL Open Font License 1.1; see the unmodified bundled font notices",
+      "licenseNotices": [
+        "fonts/OFL.txt",
+        "fonts/OFL-NotoSerif.txt"
+      ],
+      "sha256": "a5c398651cfdc317ef2358edde4c6a79f284d5e8ebd8969d3c977169b75d621a",
+      "metadataInspectionStatus": "Name tables not inspected: No module named 'fontTools'"
+    }
+  ],
+  "excluded": "No original photographs, résumé, scan pixels, biography, game motion source, game textures, original source hashes, or external asset links are included."
+}

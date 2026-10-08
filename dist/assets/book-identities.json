@@ -1,0 +1,1956 @@
+{
+  "version": 1,
+  "label": "原创公开示例书目",
+  "byRoot": {
+    "ShelfBook01": {
+      "root": "ShelfBook01",
+      "status": "example",
+      "title": "形状笔记 01",
+      "brand": "",
+      "subject": "原创示例",
+      "grade": null,
+      "term": null,
+      "edition_label": null,
+      "cover_year": null,
+      "region": null,
+      "publisher": "Memory Room",
+      "isbn": null,
+      "visible_text": [
+        "形状笔记 01",
+        "原创示例"
+      ],
+      "source_refs": [],
+      "catalogLabel": "形状笔记 01",
+      "appearance": {
+        "family": "original-demo",
+        "base": "#efe7d4",
+        "ink": "#263832",
+        "accent": "#406b70",
+        "spineBands": []
+      },
+      "print": {
+        "brand": "",
+        "title": "形状笔记 01",
+        "subject": "原创示例",
+        "edition": "公开示例",
+        "year": "",
+        "region": "",
+        "visibleText": [
+          "形状笔记 01",
+          "原创示例"
+        ]
+      }
+    },
+    "ShelfBook02": {
+      "root": "ShelfBook02",
+      "status": "example",
+      "title": "颜色实验 02",
+      "brand": "",
+      "subject": "原创示例",
+      "grade": null,
+      "term": null,
+      "edition_label": null,
+      "cover_year": null,
+      "region": null,
+      "publisher": "Memory Room",
+      "isbn": null,
+      "visible_text": [
+        "颜色实验 02",
+        "原创示例"
+      ],
+      "source_refs": [],
+      "catalogLabel": "颜色实验 02",
+      "appearance": {
+        "family": "original-demo",
+        "base": "#e7eddf",
+        "ink": "#263832",
+        "accent": "#6f8061",
+        "spineBands": []
+      },
+      "print": {
+        "brand": "",
+        "title": "颜色实验 02",
+        "subject": "原创示例",
+        "edition": "公开示例",
+        "year": "",
+        "region": "",
+        "visibleText": [
+          "颜色实验 02",
+          "原创示例"
+        ]
+      }
+    },
+    "ShelfBook03": {
+      "root": "ShelfBook03",
+      "status": "example",
+      "title": "空间观察 03",
+      "brand": "",
+      "subject": "原创示例",
+      "grade": null,
+      "term": null,
+      "edition_label": null,
+      "cover_year": null,
+      "region": null,
+      "publisher": "Memory Room",
+      "isbn": null,
+      "visible_text": [
+        "空间观察 03",
+        "原创示例"
+      ],
+      "source_refs": [],
+      "catalogLabel": "空间观察 03",
+      "appearance": {
+        "family": "original-demo",
+        "base": "#e7eaf0",
+        "ink": "#263832",
+        "accent": "#697997",
+        "spineBands": []
+      },
+      "print": {
+        "brand": "",
+        "title": "空间观察 03",
+        "subject": "原创示例",
+        "edition": "公开示例",
+        "year": "",
+        "region": "",
+        "visibleText": [
+          "空间观察 03",
+          "原创示例"
+        ]
+      }
+    },
+    "ShelfBook04": {
+      "root": "ShelfBook04",
+      "status": "example",
+      "title": "纸上构图 04",
+      "brand": "",
+      "subject": "原创示例",
+      "grade": null,
+      "term": null,
+      "edition_label": null,
+      "cover_year": null,
+      "region": null,
+      "publisher": "Memory Room",
+      "isbn": null,
+      "visible_text": [
+        "纸上构图 04",
+        "原创示例"
+      ],
+      "source_refs": [],
+      "catalogLabel": "纸上构图 04",
+      "appearance": {
+        "family": "original-demo",
+        "base": "#f0e2d6",
+        "ink": "#263832",
+        "accent": "#ab7355",
+        "spineBands": []
+      },
+      "print": {
+        "brand": "",
+        "title": "纸上构图 04",
+        "subject": "原创示例",
+        "edition": "公开示例",
+        "year": "",
+        "region": "",
+        "visibleText": [
+          "纸上构图 04",
+          "原创示例"
+        ]
+      }
+    },
+    "ShelfBook05": {
+      "root": "ShelfBook05",
+      "status": "example",
+      "title": "日常记录 05",
+      "brand": "",
+      "subject": "原创示例",
+      "grade": null,
+      "term": null,
+      "edition_label": null,
+      "cover_year": null,
+      "region": null,
+      "publisher": "Memory Room",
+      "isbn": null,
+      "visible_text": [
+        "日常记录 05",
+        "原创示例"
+      ],
+      "source_refs": [],
+      "catalogLabel": "日常记录 05",
+      "appearance": {
+        "family": "original-demo",
+        "base": "#efe7d4",
+        "ink": "#263832",
+        "accent": "#406b70",
+        "spineBands": []
+      },
+      "print": {
+        "brand": "",
+        "title": "日常记录 05",
+        "subject": "原创示例",
+        "edition": "公开示例",
+        "year": "",
+        "region": "",
+        "visibleText": [
+          "日常记录 05",
+          "原创示例"
+        ]
+      }
+    },
+    "ShelfBook06": {
+      "root": "ShelfBook06",
+      "status": "example",
+      "title": "数字小册 06",
+      "brand": "",
+      "subject": "原创示例",
+      "grade": null,
+      "term": null,
+      "edition_label": null,
+      "cover_year": null,
+      "region": null,
+      "publisher": "Memory Room",
+      "isbn": null,
+      "visible_text": [
+        "数字小册 06",
+        "原创示例"
+      ],
+      "source_refs": [],
+      "catalogLabel": "数字小册 06",
+      "appearance": {
+        "family": "original-demo",
+        "base": "#e7eddf",
+        "ink": "#263832",
+        "accent": "#6f8061",
+        "spineBands": []
+      },
+      "print": {
+        "brand": "",
+        "title": "数字小册 06",
+        "subject": "原创示例",
+        "edition": "公开示例",
+        "year": "",
+        "region": "",
+        "visibleText": [
+          "数字小册 06",
+          "原创示例"
+        ]
+      }
+    },
+    "ShelfBook07": {
+      "root": "ShelfBook07",
+      "status": "example",
+      "title": "光影手记 07",
+      "brand": "",
+      "subject": "原创示例",
+      "grade": null,
+      "term": null,
+      "edition_label": null,
+      "cover_year": null,
+      "region": null,
+      "publisher": "Memory Room",
+      "isbn": null,
+      "visible_text": [
+        "光影手记 07",
+        "原创示例"
+      ],
+      "source_refs": [],
+      "catalogLabel": "光影手记 07",
+      "appearance": {
+        "family": "original-demo",
+        "base": "#e7eaf0",
+        "ink": "#263832",
+        "accent": "#697997",
+        "spineBands": []
+      },
+      "print": {
+        "brand": "",
+        "title": "光影手记 07",
+        "subject": "原创示例",
+        "edition": "公开示例",
+        "year": "",
+        "region": "",
+        "visibleText": [
+          "光影手记 07",
+          "原创示例"
+        ]
+      }
+    },
+    "ShelfBook08": {
+      "root": "ShelfBook08",
+      "status": "example",
+      "title": "材料研究 08",
+      "brand": "",
+      "subject": "原创示例",
+      "grade": null,
+      "term": null,
+      "edition_label": null,
+      "cover_year": null,
+      "region": null,
+      "publisher": "Memory Room",
+      "isbn": null,
+      "visible_text": [
+        "材料研究 08",
+        "原创示例"
+      ],
+      "source_refs": [],
+      "catalogLabel": "材料研究 08",
+      "appearance": {
+        "family": "original-demo",
+        "base": "#f0e2d6",
+        "ink": "#263832",
+        "accent": "#ab7355",
+        "spineBands": []
+      },
+      "print": {
+        "brand": "",
+        "title": "材料研究 08",
+        "subject": "原创示例",
+        "edition": "公开示例",
+        "year": "",
+        "region": "",
+        "visibleText": [
+          "材料研究 08",
+          "原创示例"
+        ]
+      }
+    },
+    "ShelfBook09": {
+      "root": "ShelfBook09",
+      "status": "example",
+      "title": "路径设计 09",
+      "brand": "",
+      "subject": "原创示例",
+      "grade": null,
+      "term": null,
+      "edition_label": null,
+      "cover_year": null,
+      "region": null,
+      "publisher": "Memory Room",
+      "isbn": null,
+      "visible_text": [
+        "路径设计 09",
+        "原创示例"
+      ],
+      "source_refs": [],
+      "catalogLabel": "路径设计 09",
+      "appearance": {
+        "family": "original-demo",
+        "base": "#efe7d4",
+        "ink": "#263832",
+        "accent": "#406b70",
+        "spineBands": []
+      },
+      "print": {
+        "brand": "",
+        "title": "路径设计 09",
+        "subject": "原创示例",
+        "edition": "公开示例",
+        "year": "",
+        "region": "",
+        "visibleText": [
+          "路径设计 09",
+          "原创示例"
+        ]
+      }
+    },
+    "ShelfBook10": {
+      "root": "ShelfBook10",
+      "status": "example",
+      "title": "留白练习 10",
+      "brand": "",
+      "subject": "原创示例",
+      "grade": null,
+      "term": null,
+      "edition_label": null,
+      "cover_year": null,
+      "region": null,
+      "publisher": "Memory Room",
+      "isbn": null,
+      "visible_text": [
+        "留白练习 10",
+        "原创示例"
+      ],
+      "source_refs": [],
+      "catalogLabel": "留白练习 10",
+      "appearance": {
+        "family": "original-demo",
+        "base": "#e7eddf",
+        "ink": "#263832",
+        "accent": "#6f8061",
+        "spineBands": []
+      },
+      "print": {
+        "brand": "",
+        "title": "留白练习 10",
+        "subject": "原创示例",
+        "edition": "公开示例",
+        "year": "",
+        "region": "",
+        "visibleText": [
+          "留白练习 10",
+          "原创示例"
+        ]
+      }
+    },
+    "ShelfBook11": {
+      "root": "ShelfBook11",
+      "status": "example",
+      "title": "图案工坊 11",
+      "brand": "",
+      "subject": "原创示例",
+      "grade": null,
+      "term": null,
+      "edition_label": null,
+      "cover_year": null,
+      "region": null,
+      "publisher": "Memory Room",
+      "isbn": null,
+      "visible_text": [
+        "图案工坊 11",
+        "原创示例"
+      ],
+      "source_refs": [],
+      "catalogLabel": "图案工坊 11",
+      "appearance": {
+        "family": "original-demo",
+        "base": "#e7eaf0",
+        "ink": "#263832",
+        "accent": "#697997",
+        "spineBands": []
+      },
+      "print": {
+        "brand": "",
+        "title": "图案工坊 11",
+        "subject": "原创示例",
+        "edition": "公开示例",
+        "year": "",
+        "region": "",
+        "visibleText": [
+          "图案工坊 11",
+          "原创示例"
+        ]
+      }
+    },
+    "ShelfBook12": {
+      "root": "ShelfBook12",
+      "status": "example",
+      "title": "阅读日志 12",
+      "brand": "",
+      "subject": "原创示例",
+      "grade": null,
+      "term": null,
+      "edition_label": null,
+      "cover_year": null,
+      "region": null,
+      "publisher": "Memory Room",
+      "isbn": null,
+      "visible_text": [
+        "阅读日志 12",
+        "原创示例"
+      ],
+      "source_refs": [],
+      "catalogLabel": "阅读日志 12",
+      "appearance": {
+        "family": "original-demo",
+        "base": "#f0e2d6",
+        "ink": "#263832",
+        "accent": "#ab7355",
+        "spineBands": []
+      },
+      "print": {
+        "brand": "",
+        "title": "阅读日志 12",
+        "subject": "原创示例",
+        "edition": "公开示例",
+        "year": "",
+        "region": "",
+        "visibleText": [
+          "阅读日志 12",
+          "原创示例"
+        ]
+      }
+    },
+    "ShelfBook13": {
+      "root": "ShelfBook13",
+      "status": "example",
+      "title": "形状笔记 13",
+      "brand": "",
+      "subject": "原创示例",
+      "grade": null,
+      "term": null,
+      "edition_label": null,
+      "cover_year": null,
+      "region": null,
+      "publisher": "Memory Room",
+      "isbn": null,
+      "visible_text": [
+        "形状笔记 13",
+        "原创示例"
+      ],
+      "source_refs": [],
+      "catalogLabel": "形状笔记 13",
+      "appearance": {
+        "family": "original-demo",
+        "base": "#efe7d4",
+        "ink": "#263832",
+        "accent": "#406b70",
+        "spineBands": []
+      },
+      "print": {
+        "brand": "",
+        "title": "形状笔记 13",
+        "subject": "原创示例",
+        "edition": "公开示例",
+        "year": "",
+        "region": "",
+        "visibleText": [
+          "形状笔记 13",
+          "原创示例"
+        ]
+      }
+    },
+    "ShelfBook14": {
+      "root": "ShelfBook14",
+      "status": "example",
+      "title": "颜色实验 14",
+      "brand": "",
+      "subject": "原创示例",
+      "grade": null,
+      "term": null,
+      "edition_label": null,
+      "cover_year": null,
+      "region": null,
+      "publisher": "Memory Room",
+      "isbn": null,
+      "visible_text": [
+        "颜色实验 14",
+        "原创示例"
+      ],
+      "source_refs": [],
+      "catalogLabel": "颜色实验 14",
+      "appearance": {
+        "family": "original-demo",
+        "base": "#e7eddf",
+        "ink": "#263832",
+        "accent": "#6f8061",
+        "spineBands": []
+      },
+      "print": {
+        "brand": "",
+        "title": "颜色实验 14",
+        "subject": "原创示例",
+        "edition": "公开示例",
+        "year": "",
+        "region": "",
+        "visibleText": [
+          "颜色实验 14",
+          "原创示例"
+        ]
+      }
+    },
+    "ShelfBook15": {
+      "root": "ShelfBook15",
+      "status": "example",
+      "title": "空间观察 15",
+      "brand": "",
+      "subject": "原创示例",
+      "grade": null,
+      "term": null,
+      "edition_label": null,
+      "cover_year": null,
+      "region": null,
+      "publisher": "Memory Room",
+      "isbn": null,
+      "visible_text": [
+        "空间观察 15",
+        "原创示例"
+      ],
+      "source_refs": [],
+      "catalogLabel": "空间观察 15",
+      "appearance": {
+        "family": "original-demo",
+        "base": "#e7eaf0",
+        "ink": "#263832",
+        "accent": "#697997",
+        "spineBands": []
+      },
+      "print": {
+        "brand": "",
+        "title": "空间观察 15",
+        "subject": "原创示例",
+        "edition": "公开示例",
+        "year": "",
+        "region": "",
+        "visibleText": [
+          "空间观察 15",
+          "原创示例"
+        ]
+      }
+    },
+    "ShelfBook16": {
+      "root": "ShelfBook16",
+      "status": "example",
+      "title": "纸上构图 16",
+      "brand": "",
+      "subject": "原创示例",
+      "grade": null,
+      "term": null,
+      "edition_label": null,
+      "cover_year": null,
+      "region": null,
+      "publisher": "Memory Room",
+      "isbn": null,
+      "visible_text": [
+        "纸上构图 16",
+        "原创示例"
+      ],
+      "source_refs": [],
+      "catalogLabel": "纸上构图 16",
+      "appearance": {
+        "family": "original-demo",
+        "base": "#f0e2d6",
+        "ink": "#263832",
+        "accent": "#ab7355",
+        "spineBands": []
+      },
+      "print": {
+        "brand": "",
+        "title": "纸上构图 16",
+        "subject": "原创示例",
+        "edition": "公开示例",
+        "year": "",
+        "region": "",
+        "visibleText": [
+          "纸上构图 16",
+          "原创示例"
+        ]
+      }
+    },
+    "ShelfBook17": {
+      "root": "ShelfBook17",
+      "status": "example",
+      "title": "日常记录 17",
+      "brand": "",
+      "subject": "原创示例",
+      "grade": null,
+      "term": null,
+      "edition_label": null,
+      "cover_year": null,
+      "region": null,
+      "publisher": "Memory Room",
+      "isbn": null,
+      "visible_text": [
+        "日常记录 17",
+        "原创示例"
+      ],
+      "source_refs": [],
+      "catalogLabel": "日常记录 17",
+      "appearance": {
+        "family": "original-demo",
+        "base": "#efe7d4",
+        "ink": "#263832",
+        "accent": "#406b70",
+        "spineBands": []
+      },
+      "print": {
+        "brand": "",
+        "title": "日常记录 17",
+        "subject": "原创示例",
+        "edition": "公开示例",
+        "year": "",
+        "region": "",
+        "visibleText": [
+          "日常记录 17",
+          "原创示例"
+        ]
+      }
+    },
+    "ShelfBook18": {
+      "root": "ShelfBook18",
+      "status": "example",
+      "title": "数字小册 18",
+      "brand": "",
+      "subject": "原创示例",
+      "grade": null,
+      "term": null,
+      "edition_label": null,
+      "cover_year": null,
+      "region": null,
+      "publisher": "Memory Room",
+      "isbn": null,
+      "visible_text": [
+        "数字小册 18",
+        "原创示例"
+      ],
+      "source_refs": [],
+      "catalogLabel": "数字小册 18",
+      "appearance": {
+        "family": "original-demo",
+        "base": "#e7eddf",
+        "ink": "#263832",
+        "accent": "#6f8061",
+        "spineBands": []
+      },
+      "print": {
+        "brand": "",
+        "title": "数字小册 18",
+        "subject": "原创示例",
+        "edition": "公开示例",
+        "year": "",
+        "region": "",
+        "visibleText": [
+          "数字小册 18",
+          "原创示例"
+        ]
+      }
+    },
+    "ShelfBook19": {
+      "root": "ShelfBook19",
+      "status": "example",
+      "title": "光影手记 19",
+      "brand": "",
+      "subject": "原创示例",
+      "grade": null,
+      "term": null,
+      "edition_label": null,
+      "cover_year": null,
+      "region": null,
+      "publisher": "Memory Room",
+      "isbn": null,
+      "visible_text": [
+        "光影手记 19",
+        "原创示例"
+      ],
+      "source_refs": [],
+      "catalogLabel": "光影手记 19",
+      "appearance": {
+        "family": "original-demo",
+        "base": "#e7eaf0",
+        "ink": "#263832",
+        "accent": "#697997",
+        "spineBands": []
+      },
+      "print": {
+        "brand": "",
+        "title": "光影手记 19",
+        "subject": "原创示例",
+        "edition": "公开示例",
+        "year": "",
+        "region": "",
+        "visibleText": [
+          "光影手记 19",
+          "原创示例"
+        ]
+      }
+    },
+    "ShelfBook20": {
+      "root": "ShelfBook20",
+      "status": "example",
+      "title": "材料研究 20",
+      "brand": "",
+      "subject": "原创示例",
+      "grade": null,
+      "term": null,
+      "edition_label": null,
+      "cover_year": null,
+      "region": null,
+      "publisher": "Memory Room",
+      "isbn": null,
+      "visible_text": [
+        "材料研究 20",
+        "原创示例"
+      ],
+      "source_refs": [],
+      "catalogLabel": "材料研究 20",
+      "appearance": {
+        "family": "original-demo",
+        "base": "#f0e2d6",
+        "ink": "#263832",
+        "accent": "#ab7355",
+        "spineBands": []
+      },
+      "print": {
+        "brand": "",
+        "title": "材料研究 20",
+        "subject": "原创示例",
+        "edition": "公开示例",
+        "year": "",
+        "region": "",
+        "visibleText": [
+          "材料研究 20",
+          "原创示例"
+        ]
+      }
+    },
+    "ShelfBook21": {
+      "root": "ShelfBook21",
+      "status": "example",
+      "title": "路径设计 21",
+      "brand": "",
+      "subject": "原创示例",
+      "grade": null,
+      "term": null,
+      "edition_label": null,
+      "cover_year": null,
+      "region": null,
+      "publisher": "Memory Room",
+      "isbn": null,
+      "visible_text": [
+        "路径设计 21",
+        "原创示例"
+      ],
+      "source_refs": [],
+      "catalogLabel": "路径设计 21",
+      "appearance": {
+        "family": "original-demo",
+        "base": "#efe7d4",
+        "ink": "#263832",
+        "accent": "#406b70",
+        "spineBands": []
+      },
+      "print": {
+        "brand": "",
+        "title": "路径设计 21",
+        "subject": "原创示例",
+        "edition": "公开示例",
+        "year": "",
+        "region": "",
+        "visibleText": [
+          "路径设计 21",
+          "原创示例"
+        ]
+      }
+    },
+    "ShelfBook22": {
+      "root": "ShelfBook22",
+      "status": "example",
+      "title": "留白练习 22",
+      "brand": "",
+      "subject": "原创示例",
+      "grade": null,
+      "term": null,
+      "edition_label": null,
+      "cover_year": null,
+      "region": null,
+      "publisher": "Memory Room",
+      "isbn": null,
+      "visible_text": [
+        "留白练习 22",
+        "原创示例"
+      ],
+      "source_refs": [],
+      "catalogLabel": "留白练习 22",
+      "appearance": {
+        "family": "original-demo",
+        "base": "#e7eddf",
+        "ink": "#263832",
+        "accent": "#6f8061",
+        "spineBands": []
+      },
+      "print": {
+        "brand": "",
+        "title": "留白练习 22",
+        "subject": "原创示例",
+        "edition": "公开示例",
+        "year": "",
+        "region": "",
+        "visibleText": [
+          "留白练习 22",
+          "原创示例"
+        ]
+      }
+    },
+    "FlatBook01": {
+      "root": "FlatBook01",
+      "status": "example",
+      "title": "图案工坊 23",
+      "brand": "",
+      "subject": "原创示例",
+      "grade": null,
+      "term": null,
+      "edition_label": null,
+      "cover_year": null,
+      "region": null,
+      "publisher": "Memory Room",
+      "isbn": null,
+      "visible_text": [
+        "图案工坊 23",
+        "原创示例"
+      ],
+      "source_refs": [],
+      "catalogLabel": "图案工坊 23",
+      "appearance": {
+        "family": "original-demo",
+        "base": "#e7eaf0",
+        "ink": "#263832",
+        "accent": "#697997",
+        "spineBands": []
+      },
+      "print": {
+        "brand": "",
+        "title": "图案工坊 23",
+        "subject": "原创示例",
+        "edition": "公开示例",
+        "year": "",
+        "region": "",
+        "visibleText": [
+          "图案工坊 23",
+          "原创示例"
+        ]
+      }
+    },
+    "FlatBook02": {
+      "root": "FlatBook02",
+      "status": "example",
+      "title": "阅读日志 24",
+      "brand": "",
+      "subject": "原创示例",
+      "grade": null,
+      "term": null,
+      "edition_label": null,
+      "cover_year": null,
+      "region": null,
+      "publisher": "Memory Room",
+      "isbn": null,
+      "visible_text": [
+        "阅读日志 24",
+        "原创示例"
+      ],
+      "source_refs": [],
+      "catalogLabel": "阅读日志 24",
+      "appearance": {
+        "family": "original-demo",
+        "base": "#f0e2d6",
+        "ink": "#263832",
+        "accent": "#ab7355",
+        "spineBands": []
+      },
+      "print": {
+        "brand": "",
+        "title": "阅读日志 24",
+        "subject": "原创示例",
+        "edition": "公开示例",
+        "year": "",
+        "region": "",
+        "visibleText": [
+          "阅读日志 24",
+          "原创示例"
+        ]
+      }
+    },
+    "FlatBook03": {
+      "root": "FlatBook03",
+      "status": "example",
+      "title": "形状笔记 25",
+      "brand": "",
+      "subject": "原创示例",
+      "grade": null,
+      "term": null,
+      "edition_label": null,
+      "cover_year": null,
+      "region": null,
+      "publisher": "Memory Room",
+      "isbn": null,
+      "visible_text": [
+        "形状笔记 25",
+        "原创示例"
+      ],
+      "source_refs": [],
+      "catalogLabel": "形状笔记 25",
+      "appearance": {
+        "family": "original-demo",
+        "base": "#efe7d4",
+        "ink": "#263832",
+        "accent": "#406b70",
+        "spineBands": []
+      },
+      "print": {
+        "brand": "",
+        "title": "形状笔记 25",
+        "subject": "原创示例",
+        "edition": "公开示例",
+        "year": "",
+        "region": "",
+        "visibleText": [
+          "形状笔记 25",
+          "原创示例"
+        ]
+      }
+    },
+    "FlatBook04": {
+      "root": "FlatBook04",
+      "status": "example",
+      "title": "颜色实验 26",
+      "brand": "",
+      "subject": "原创示例",
+      "grade": null,
+      "term": null,
+      "edition_label": null,
+      "cover_year": null,
+      "region": null,
+      "publisher": "Memory Room",
+      "isbn": null,
+      "visible_text": [
+        "颜色实验 26",
+        "原创示例"
+      ],
+      "source_refs": [],
+      "catalogLabel": "颜色实验 26",
+      "appearance": {
+        "family": "original-demo",
+        "base": "#e7eddf",
+        "ink": "#263832",
+        "accent": "#6f8061",
+        "spineBands": []
+      },
+      "print": {
+        "brand": "",
+        "title": "颜色实验 26",
+        "subject": "原创示例",
+        "edition": "公开示例",
+        "year": "",
+        "region": "",
+        "visibleText": [
+          "颜色实验 26",
+          "原创示例"
+        ]
+      }
+    },
+    "FlatBook05": {
+      "root": "FlatBook05",
+      "status": "example",
+      "title": "空间观察 27",
+      "brand": "",
+      "subject": "原创示例",
+      "grade": null,
+      "term": null,
+      "edition_label": null,
+      "cover_year": null,
+      "region": null,
+      "publisher": "Memory Room",
+      "isbn": null,
+      "visible_text": [
+        "空间观察 27",
+        "原创示例"
+      ],
+      "source_refs": [],
+      "catalogLabel": "空间观察 27",
+      "appearance": {
+        "family": "original-demo",
+        "base": "#e7eaf0",
+        "ink": "#263832",
+        "accent": "#697997",
+        "spineBands": []
+      },
+      "print": {
+        "brand": "",
+        "title": "空间观察 27",
+        "subject": "原创示例",
+        "edition": "公开示例",
+        "year": "",
+        "region": "",
+        "visibleText": [
+          "空间观察 27",
+          "原创示例"
+        ]
+      }
+    },
+    "FlatBook06": {
+      "root": "FlatBook06",
+      "status": "example",
+      "title": "纸上构图 28",
+      "brand": "",
+      "subject": "原创示例",
+      "grade": null,
+      "term": null,
+      "edition_label": null,
+      "cover_year": null,
+      "region": null,
+      "publisher": "Memory Room",
+      "isbn": null,
+      "visible_text": [
+        "纸上构图 28",
+        "原创示例"
+      ],
+      "source_refs": [],
+      "catalogLabel": "纸上构图 28",
+      "appearance": {
+        "family": "original-demo",
+        "base": "#f0e2d6",
+        "ink": "#263832",
+        "accent": "#ab7355",
+        "spineBands": []
+      },
+      "print": {
+        "brand": "",
+        "title": "纸上构图 28",
+        "subject": "原创示例",
+        "edition": "公开示例",
+        "year": "",
+        "region": "",
+        "visibleText": [
+          "纸上构图 28",
+          "原创示例"
+        ]
+      }
+    },
+    "FlatBook07": {
+      "root": "FlatBook07",
+      "status": "example",
+      "title": "日常记录 29",
+      "brand": "",
+      "subject": "原创示例",
+      "grade": null,
+      "term": null,
+      "edition_label": null,
+      "cover_year": null,
+      "region": null,
+      "publisher": "Memory Room",
+      "isbn": null,
+      "visible_text": [
+        "日常记录 29",
+        "原创示例"
+      ],
+      "source_refs": [],
+      "catalogLabel": "日常记录 29",
+      "appearance": {
+        "family": "original-demo",
+        "base": "#efe7d4",
+        "ink": "#263832",
+        "accent": "#406b70",
+        "spineBands": []
+      },
+      "print": {
+        "brand": "",
+        "title": "日常记录 29",
+        "subject": "原创示例",
+        "edition": "公开示例",
+        "year": "",
+        "region": "",
+        "visibleText": [
+          "日常记录 29",
+          "原创示例"
+        ]
+      }
+    },
+    "FlatBook08": {
+      "root": "FlatBook08",
+      "status": "example",
+      "title": "数字小册 30",
+      "brand": "",
+      "subject": "原创示例",
+      "grade": null,
+      "term": null,
+      "edition_label": null,
+      "cover_year": null,
+      "region": null,
+      "publisher": "Memory Room",
+      "isbn": null,
+      "visible_text": [
+        "数字小册 30",
+        "原创示例"
+      ],
+      "source_refs": [],
+      "catalogLabel": "数字小册 30",
+      "appearance": {
+        "family": "original-demo",
+        "base": "#e7eddf",
+        "ink": "#263832",
+        "accent": "#6f8061",
+        "spineBands": []
+      },
+      "print": {
+        "brand": "",
+        "title": "数字小册 30",
+        "subject": "原创示例",
+        "edition": "公开示例",
+        "year": "",
+        "region": "",
+        "visibleText": [
+          "数字小册 30",
+          "原创示例"
+        ]
+      }
+    },
+    "FlatBook09": {
+      "root": "FlatBook09",
+      "status": "example",
+      "title": "光影手记 31",
+      "brand": "",
+      "subject": "原创示例",
+      "grade": null,
+      "term": null,
+      "edition_label": null,
+      "cover_year": null,
+      "region": null,
+      "publisher": "Memory Room",
+      "isbn": null,
+      "visible_text": [
+        "光影手记 31",
+        "原创示例"
+      ],
+      "source_refs": [],
+      "catalogLabel": "光影手记 31",
+      "appearance": {
+        "family": "original-demo",
+        "base": "#e7eaf0",
+        "ink": "#263832",
+        "accent": "#697997",
+        "spineBands": []
+      },
+      "print": {
+        "brand": "",
+        "title": "光影手记 31",
+        "subject": "原创示例",
+        "edition": "公开示例",
+        "year": "",
+        "region": "",
+        "visibleText": [
+          "光影手记 31",
+          "原创示例"
+        ]
+      }
+    },
+    "FlatBook10": {
+      "root": "FlatBook10",
+      "status": "example",
+      "title": "材料研究 32",
+      "brand": "",
+      "subject": "原创示例",
+      "grade": null,
+      "term": null,
+      "edition_label": null,
+      "cover_year": null,
+      "region": null,
+      "publisher": "Memory Room",
+      "isbn": null,
+      "visible_text": [
+        "材料研究 32",
+        "原创示例"
+      ],
+      "source_refs": [],
+      "catalogLabel": "材料研究 32",
+      "appearance": {
+        "family": "original-demo",
+        "base": "#f0e2d6",
+        "ink": "#263832",
+        "accent": "#ab7355",
+        "spineBands": []
+      },
+      "print": {
+        "brand": "",
+        "title": "材料研究 32",
+        "subject": "原创示例",
+        "edition": "公开示例",
+        "year": "",
+        "region": "",
+        "visibleText": [
+          "材料研究 32",
+          "原创示例"
+        ]
+      }
+    },
+    "FlatBook11": {
+      "root": "FlatBook11",
+      "status": "example",
+      "title": "路径设计 33",
+      "brand": "",
+      "subject": "原创示例",
+      "grade": null,
+      "term": null,
+      "edition_label": null,
+      "cover_year": null,
+      "region": null,
+      "publisher": "Memory Room",
+      "isbn": null,
+      "visible_text": [
+        "路径设计 33",
+        "原创示例"
+      ],
+      "source_refs": [],
+      "catalogLabel": "路径设计 33",
+      "appearance": {
+        "family": "original-demo",
+        "base": "#efe7d4",
+        "ink": "#263832",
+        "accent": "#406b70",
+        "spineBands": []
+      },
+      "print": {
+        "brand": "",
+        "title": "路径设计 33",
+        "subject": "原创示例",
+        "edition": "公开示例",
+        "year": "",
+        "region": "",
+        "visibleText": [
+          "路径设计 33",
+          "原创示例"
+        ]
+      }
+    },
+    "FlatBook12": {
+      "root": "FlatBook12",
+      "status": "example",
+      "title": "留白练习 34",
+      "brand": "",
+      "subject": "原创示例",
+      "grade": null,
+      "term": null,
+      "edition_label": null,
+      "cover_year": null,
+      "region": null,
+      "publisher": "Memory Room",
+      "isbn": null,
+      "visible_text": [
+        "留白练习 34",
+        "原创示例"
+      ],
+      "source_refs": [],
+      "catalogLabel": "留白练习 34",
+      "appearance": {
+        "family": "original-demo",
+        "base": "#e7eddf",
+        "ink": "#263832",
+        "accent": "#6f8061",
+        "spineBands": []
+      },
+      "print": {
+        "brand": "",
+        "title": "留白练习 34",
+        "subject": "原创示例",
+        "edition": "公开示例",
+        "year": "",
+        "region": "",
+        "visibleText": [
+          "留白练习 34",
+          "原创示例"
+        ]
+      }
+    },
+    "FlatBook13": {
+      "root": "FlatBook13",
+      "status": "example",
+      "title": "图案工坊 35",
+      "brand": "",
+      "subject": "原创示例",
+      "grade": null,
+      "term": null,
+      "edition_label": null,
+      "cover_year": null,
+      "region": null,
+      "publisher": "Memory Room",
+      "isbn": null,
+      "visible_text": [
+        "图案工坊 35",
+        "原创示例"
+      ],
+      "source_refs": [],
+      "catalogLabel": "图案工坊 35",
+      "appearance": {
+        "family": "original-demo",
+        "base": "#e7eaf0",
+        "ink": "#263832",
+        "accent": "#697997",
+        "spineBands": []
+      },
+      "print": {
+        "brand": "",
+        "title": "图案工坊 35",
+        "subject": "原创示例",
+        "edition": "公开示例",
+        "year": "",
+        "region": "",
+        "visibleText": [
+          "图案工坊 35",
+          "原创示例"
+        ]
+      }
+    },
+    "FlatBook14": {
+      "root": "FlatBook14",
+      "status": "example",
+      "title": "阅读日志 36",
+      "brand": "",
+      "subject": "原创示例",
+      "grade": null,
+      "term": null,
+      "edition_label": null,
+      "cover_year": null,
+      "region": null,
+      "publisher": "Memory Room",
+      "isbn": null,
+      "visible_text": [
+        "阅读日志 36",
+        "原创示例"
+      ],
+      "source_refs": [],
+      "catalogLabel": "阅读日志 36",
+      "appearance": {
+        "family": "original-demo",
+        "base": "#f0e2d6",
+        "ink": "#263832",
+        "accent": "#ab7355",
+        "spineBands": []
+      },
+      "print": {
+        "brand": "",
+        "title": "阅读日志 36",
+        "subject": "原创示例",
+        "edition": "公开示例",
+        "year": "",
+        "region": "",
+        "visibleText": [
+          "阅读日志 36",
+          "原创示例"
+        ]
+      }
+    },
+    "FlatBook15": {
+      "root": "FlatBook15",
+      "status": "example",
+      "title": "形状笔记 37",
+      "brand": "",
+      "subject": "原创示例",
+      "grade": null,
+      "term": null,
+      "edition_label": null,
+      "cover_year": null,
+      "region": null,
+      "publisher": "Memory Room",
+      "isbn": null,
+      "visible_text": [
+        "形状笔记 37",
+        "原创示例"
+      ],
+      "source_refs": [],
+      "catalogLabel": "形状笔记 37",
+      "appearance": {
+        "family": "original-demo",
+        "base": "#efe7d4",
+        "ink": "#263832",
+        "accent": "#406b70",
+        "spineBands": []
+      },
+      "print": {
+        "brand": "",
+        "title": "形状笔记 37",
+        "subject": "原创示例",
+        "edition": "公开示例",
+        "year": "",
+        "region": "",
+        "visibleText": [
+          "形状笔记 37",
+          "原创示例"
+        ]
+      }
+    },
+    "FlatBook16": {
+      "root": "FlatBook16",
+      "status": "example",
+      "title": "颜色实验 38",
+      "brand": "",
+      "subject": "原创示例",
+      "grade": null,
+      "term": null,
+      "edition_label": null,
+      "cover_year": null,
+      "region": null,
+      "publisher": "Memory Room",
+      "isbn": null,
+      "visible_text": [
+        "颜色实验 38",
+        "原创示例"
+      ],
+      "source_refs": [],
+      "catalogLabel": "颜色实验 38",
+      "appearance": {
+        "family": "original-demo",
+        "base": "#e7eddf",
+        "ink": "#263832",
+        "accent": "#6f8061",
+        "spineBands": []
+      },
+      "print": {
+        "brand": "",
+        "title": "颜色实验 38",
+        "subject": "原创示例",
+        "edition": "公开示例",
+        "year": "",
+        "region": "",
+        "visibleText": [
+          "颜色实验 38",
+          "原创示例"
+        ]
+      }
+    },
+    "FlatBook17": {
+      "root": "FlatBook17",
+      "status": "example",
+      "title": "空间观察 39",
+      "brand": "",
+      "subject": "原创示例",
+      "grade": null,
+      "term": null,
+      "edition_label": null,
+      "cover_year": null,
+      "region": null,
+      "publisher": "Memory Room",
+      "isbn": null,
+      "visible_text": [
+        "空间观察 39",
+        "原创示例"
+      ],
+      "source_refs": [],
+      "catalogLabel": "空间观察 39",
+      "appearance": {
+        "family": "original-demo",
+        "base": "#e7eaf0",
+        "ink": "#263832",
+        "accent": "#697997",
+        "spineBands": []
+      },
+      "print": {
+        "brand": "",
+        "title": "空间观察 39",
+        "subject": "原创示例",
+        "edition": "公开示例",
+        "year": "",
+        "region": "",
+        "visibleText": [
+          "空间观察 39",
+          "原创示例"
+        ]
+      }
+    },
+    "FlatBook18": {
+      "root": "FlatBook18",
+      "status": "example",
+      "title": "纸上构图 40",
+      "brand": "",
+      "subject": "原创示例",
+      "grade": null,
+      "term": null,
+      "edition_label": null,
+      "cover_year": null,
+      "region": null,
+      "publisher": "Memory Room",
+      "isbn": null,
+      "visible_text": [
+        "纸上构图 40",
+        "原创示例"
+      ],
+      "source_refs": [],
+      "catalogLabel": "纸上构图 40",
+      "appearance": {
+        "family": "original-demo",
+        "base": "#f0e2d6",
+        "ink": "#263832",
+        "accent": "#ab7355",
+        "spineBands": []
+      },
+      "print": {
+        "brand": "",
+        "title": "纸上构图 40",
+        "subject": "原创示例",
+        "edition": "公开示例",
+        "year": "",
+        "region": "",
+        "visibleText": [
+          "纸上构图 40",
+          "原创示例"
+        ]
+      }
+    },
+    "FlatBook19": {
+      "root": "FlatBook19",
+      "status": "example",
+      "title": "日常记录 41",
+      "brand": "",
+      "subject": "原创示例",
+      "grade": null,
+      "term": null,
+      "edition_label": null,
+      "cover_year": null,
+      "region": null,
+      "publisher": "Memory Room",
+      "isbn": null,
+      "visible_text": [
+        "日常记录 41",
+        "原创示例"
+      ],
+      "source_refs": [],
+      "catalogLabel": "日常记录 41",
+      "appearance": {
+        "family": "original-demo",
+        "base": "#efe7d4",
+        "ink": "#263832",
+        "accent": "#406b70",
+        "spineBands": []
+      },
+      "print": {
+        "brand": "",
+        "title": "日常记录 41",
+        "subject": "原创示例",
+        "edition": "公开示例",
+        "year": "",
+        "region": "",
+        "visibleText": [
+          "日常记录 41",
+          "原创示例"
+        ]
+      }
+    },
+    "FlatBook20": {
+      "root": "FlatBook20",
+      "status": "example",
+      "title": "数字小册 42",
+      "brand": "",
+      "subject": "原创示例",
+      "grade": null,
+      "term": null,
+      "edition_label": null,
+      "cover_year": null,
+      "region": null,
+      "publisher": "Memory Room",
+      "isbn": null,
+      "visible_text": [
+        "数字小册 42",
+        "原创示例"
+      ],
+      "source_refs": [],
+      "catalogLabel": "数字小册 42",
+      "appearance": {
+        "family": "original-demo",
+        "base": "#e7eddf",
+        "ink": "#263832",
+        "accent": "#6f8061",
+        "spineBands": []
+      },
+      "print": {
+        "brand": "",
+        "title": "数字小册 42",
+        "subject": "原创示例",
+        "edition": "公开示例",
+        "year": "",
+        "region": "",
+        "visibleText": [
+          "数字小册 42",
+          "原创示例"
+        ]
+      }
+    },
+    "FlatBook21": {
+      "root": "FlatBook21",
+      "status": "example",
+      "title": "光影手记 43",
+      "brand": "",
+      "subject": "原创示例",
+      "grade": null,
+      "term": null,
+      "edition_label": null,
+      "cover_year": null,
+      "region": null,
+      "publisher": "Memory Room",
+      "isbn": null,
+      "visible_text": [
+        "光影手记 43",
+        "原创示例"
+      ],
+      "source_refs": [],
+      "catalogLabel": "光影手记 43",
+      "appearance": {
+        "family": "original-demo",
+        "base": "#e7eaf0",
+        "ink": "#263832",
+        "accent": "#697997",
+        "spineBands": []
+      },
+      "print": {
+        "brand": "",
+        "title": "光影手记 43",
+        "subject": "原创示例",
+        "edition": "公开示例",
+        "year": "",
+        "region": "",
+        "visibleText": [
+          "光影手记 43",
+          "原创示例"
+        ]
+      }
+    },
+    "FlatBook22": {
+      "root": "FlatBook22",
+      "status": "example",
+      "title": "材料研究 44",
+      "brand": "",
+      "subject": "原创示例",
+      "grade": null,
+      "term": null,
+      "edition_label": null,
+      "cover_year": null,
+      "region": null,
+      "publisher": "Memory Room",
+      "isbn": null,
+      "visible_text": [
+        "材料研究 44",
+        "原创示例"
+      ],
+      "source_refs": [],
+      "catalogLabel": "材料研究 44",
+      "appearance": {
+        "family": "original-demo",
+        "base": "#f0e2d6",
+        "ink": "#263832",
+        "accent": "#ab7355",
+        "spineBands": []
+      },
+      "print": {
+        "brand": "",
+        "title": "材料研究 44",
+        "subject": "原创示例",
+        "edition": "公开示例",
+        "year": "",
+        "region": "",
+        "visibleText": [
+          "材料研究 44",
+          "原创示例"
+        ]
+      }
+    },
+    "TopFolder01": {
+      "root": "TopFolder01",
+      "status": "example",
+      "title": "路径设计 45",
+      "brand": "",
+      "subject": "原创示例",
+      "grade": null,
+      "term": null,
+      "edition_label": null,
+      "cover_year": null,
+      "region": null,
+      "publisher": "Memory Room",
+      "isbn": null,
+      "visible_text": [
+        "路径设计 45",
+        "原创示例"
+      ],
+      "source_refs": [],
+      "catalogLabel": "路径设计 45",
+      "appearance": {
+        "family": "original-demo",
+        "base": "#efe7d4",
+        "ink": "#263832",
+        "accent": "#406b70",
+        "spineBands": []
+      },
+      "print": {
+        "brand": "",
+        "title": "路径设计 45",
+        "subject": "原创示例",
+        "edition": "公开示例",
+        "year": "",
+        "region": "",
+        "visibleText": [
+          "路径设计 45",
+          "原创示例"
+        ]
+      }
+    },
+    "TopFolder02": {
+      "root": "TopFolder02",
+      "status": "example",
+      "title": "留白练习 46",
+      "brand": "",
+      "subject": "原创示例",
+      "grade": null,
+      "term": null,
+      "edition_label": null,
+      "cover_year": null,
+      "region": null,
+      "publisher": "Memory Room",
+      "isbn": null,
+      "visible_text": [
+        "留白练习 46",
+        "原创示例"
+      ],
+      "source_refs": [],
+      "catalogLabel": "留白练习 46",
+      "appearance": {
+        "family": "original-demo",
+        "base": "#e7eddf",
+        "ink": "#263832",
+        "accent": "#6f8061",
+        "spineBands": []
+      },
+      "print": {
+        "brand": "",
+        "title": "留白练习 46",
+        "subject": "原创示例",
+        "edition": "公开示例",
+        "year": "",
+        "region": "",
+        "visibleText": [
+          "留白练习 46",
+          "原创示例"
+        ]
+      }
+    },
+    "BridgeBookRoot": {
+      "root": "BridgeBookRoot",
+      "status": "example",
+      "title": "图案工坊 47",
+      "brand": "",
+      "subject": "原创示例",
+      "grade": null,
+      "term": null,
+      "edition_label": null,
+      "cover_year": null,
+      "region": null,
+      "publisher": "Memory Room",
+      "isbn": null,
+      "visible_text": [
+        "图案工坊 47",
+        "原创示例"
+      ],
+      "source_refs": [],
+      "catalogLabel": "图案工坊 47",
+      "appearance": {
+        "family": "original-demo",
+        "base": "#e7eaf0",
+        "ink": "#263832",
+        "accent": "#697997",
+        "spineBands": []
+      },
+      "print": {
+        "brand": "",
+        "title": "图案工坊 47",
+        "subject": "原创示例",
+        "edition": "公开示例",
+        "year": "",
+        "region": "",
+        "visibleText": [
+          "图案工坊 47",
+          "原创示例"
+        ]
+      }
+    },
+    "BinderRight01": {
+      "root": "BinderRight01",
+      "status": "example",
+      "title": "阅读日志 48",
+      "brand": "",
+      "subject": "原创示例",
+      "grade": null,
+      "term": null,
+      "edition_label": null,
+      "cover_year": null,
+      "region": null,
+      "publisher": "Memory Room",
+      "isbn": null,
+      "visible_text": [
+        "阅读日志 48",
+        "原创示例"
+      ],
+      "source_refs": [],
+      "catalogLabel": "阅读日志 48",
+      "appearance": {
+        "family": "original-demo",
+        "base": "#f0e2d6",
+        "ink": "#263832",
+        "accent": "#ab7355",
+        "spineBands": []
+      },
+      "print": {
+        "brand": "",
+        "title": "阅读日志 48",
+        "subject": "原创示例",
+        "edition": "公开示例",
+        "year": "",
+        "region": "",
+        "visibleText": [
+          "阅读日志 48",
+          "原创示例"
+        ]
+      }
+    },
+    "BinderRight02": {
+      "root": "BinderRight02",
+      "status": "example",
+      "title": "形状笔记 49",
+      "brand": "",
+      "subject": "原创示例",
+      "grade": null,
+      "term": null,
+      "edition_label": null,
+      "cover_year": null,
+      "region": null,
+      "publisher": "Memory Room",
+      "isbn": null,
+      "visible_text": [
+        "形状笔记 49",
+        "原创示例"
+      ],
+      "source_refs": [],
+      "catalogLabel": "形状笔记 49",
+      "appearance": {
+        "family": "original-demo",
+        "base": "#efe7d4",
+        "ink": "#263832",
+        "accent": "#406b70",
+        "spineBands": []
+      },
+      "print": {
+        "brand": "",
+        "title": "形状笔记 49",
+        "subject": "原创示例",
+        "edition": "公开示例",
+        "year": "",
+        "region": "",
+        "visibleText": [
+          "形状笔记 49",
+          "原创示例"
+        ]
+      }
+    },
+    "BinderRight03": {
+      "root": "BinderRight03",
+      "status": "example",
+      "title": "颜色实验 50",
+      "brand": "",
+      "subject": "原创示例",
+      "grade": null,
+      "term": null,
+      "edition_label": null,
+      "cover_year": null,
+      "region": null,
+      "publisher": "Memory Room",
+      "isbn": null,
+      "visible_text": [
+        "颜色实验 50",
+        "原创示例"
+      ],
+      "source_refs": [],
+      "catalogLabel": "颜色实验 50",
+      "appearance": {
+        "family": "original-demo",
+        "base": "#e7eddf",
+        "ink": "#263832",
+        "accent": "#6f8061",
+        "spineBands": []
+      },
+      "print": {
+        "brand": "",
+        "title": "颜色实验 50",
+        "subject": "原创示例",
+        "edition": "公开示例",
+        "year": "",
+        "region": "",
+        "visibleText": [
+          "颜色实验 50",
+          "原创示例"
+        ]
+      }
+    }
+  }
+}

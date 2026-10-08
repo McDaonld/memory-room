@@ -1,0 +1,206 @@
+{
+  "type": "FeatureCollection",
+  "name": "Imaginary journey diagram — not geographic data",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Imaginary region 1",
+        "fictional": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.0,
+              45.0
+            ],
+            [
+              87.243,
+              47.828
+            ],
+            [
+              83.0,
+              49.0
+            ],
+            [
+              78.757,
+              47.828
+            ],
+            [
+              77.0,
+              45.0
+            ],
+            [
+              78.757,
+              42.172
+            ],
+            [
+              83.0,
+              41.0
+            ],
+            [
+              87.243,
+              42.172
+            ],
+            [
+              89.0,
+              45.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Imaginary region 2",
+        "fictional": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.0,
+              40.0
+            ],
+            [
+              105.95,
+              43.536
+            ],
+            [
+              101.0,
+              45.0
+            ],
+            [
+              96.05,
+              43.536
+            ],
+            [
+              94.0,
+              40.0
+            ],
+            [
+              96.05,
+              36.464
+            ],
+            [
+              101.0,
+              35.0
+            ],
+            [
+              105.95,
+              36.464
+            ],
+            [
+              108.0,
+              40.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Imaginary region 3",
+        "fictional": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              123.0,
+              31.0
+            ],
+            [
+              121.536,
+              33.828
+            ],
+            [
+              118.0,
+              35.0
+            ],
+            [
+              114.464,
+              33.828
+            ],
+            [
+              113.0,
+              31.0
+            ],
+            [
+              114.464,
+              28.172
+            ],
+            [
+              118.0,
+              27.0
+            ],
+            [
+              121.536,
+              28.172
+            ],
+            [
+              123.0,
+              31.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Imaginary region 4",
+        "fictional": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              97.0,
+              27.0
+            ],
+            [
+              95.828,
+              29.121
+            ],
+            [
+              93.0,
+              30.0
+            ],
+            [
+              90.172,
+              29.121
+            ],
+            [
+              89.0,
+              27.0
+            ],
+            [
+              90.172,
+              24.879
+            ],
+            [
+              93.0,
+              24.0
+            ],
+            [
+              95.828,
+              24.879
+            ],
+            [
+              97.0,
+              27.0
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

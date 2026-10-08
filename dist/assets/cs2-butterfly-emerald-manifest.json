@@ -1,0 +1,115 @@
+{
+  "root": "CSGOBalisongDisplay",
+  "rootPosition": [
+    0.674,
+    2.8339847513343397,
+    -0.328
+  ],
+  "storedRootQuaternion": [
+    0,
+    0,
+    0,
+    1
+  ],
+  "displayRootQuaternion": [
+    0,
+    0,
+    0,
+    1
+  ],
+  "publicDemo": true,
+  "assetNotice": "Original neutral folding object. No game geometry, source textures, skins, rig, or native animation clips. Legacy root names are runtime compatibility identifiers.",
+  "clips": [],
+  "nativeGameAnimation": false,
+  "meshCount": 3,
+  "restLocalBounds": {
+    "min": [
+      -0.092499999076128,
+      -0.010999999940395355,
+      -0.017999999225139618
+    ],
+    "max": [
+      0.092499999076128,
+      0.010999999940395355,
+      0.017999999225139618
+    ],
+    "center": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "radius": 0.09487491660010779
+  },
+  "displayLocalBounds": {
+    "min": [
+      -0.09325020183334297,
+      -0.014382182659087833,
+      -0.017999999225139618
+    ],
+    "max": [
+      0.09325020183334297,
+      0.014382182659087833,
+      0.017999999225139618
+    ],
+    "center": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "radius": 0.09605439756775114
+  },
+  "identityDisplaySweptBounds": {
+    "min": [
+      -0.09325020183334297,
+      -0.014382182659087833,
+      -0.017999999225139618
+    ],
+    "max": [
+      0.09325020183334297,
+      0.014382182659087833,
+      0.017999999225139618
+    ],
+    "center": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "radius": 0.09605439756775114,
+    "rootQuaternion": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "method": "Analytic extrema of every current POSITION vertex under the public procedural Z rotations: left [-0.12, 0], right [0, 0.12] radians. The bounding sphere encloses the resulting root-local axis-aligned box. Root translation and global inspection rotations are excluded.",
+    "scope": "Public neutral procedural unfold and reverse only; not an inherited game-animation sweep."
+  },
+  "proceduralMotion": {
+    "left": {
+      "node": "BalisongHandleLeftPivot",
+      "axis": [
+        0,
+        0,
+        1
+      ],
+      "closed": 0,
+      "open": -0.12
+    },
+    "right": {
+      "node": "BalisongHandleRightPivot",
+      "axis": [
+        0,
+        0,
+        1
+      ],
+      "closed": 0,
+      "open": 0.12
+    }
+  },
+  "measurement": {
+    "currentModelSHA256": "25b4cbbc5dd45eb65daaadd0882c4b0d6436ee56ead5428961e774c03cf5deeb",
+    "positionVertices": 172,
+    "geometryEvaluated": true,
+    "originalValidationReused": false
+  }
+}

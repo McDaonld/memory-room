@@ -1,0 +1,182 @@
+[
+  {
+    "id": "yongwai-01",
+    "src": "assets/yongwai-scanned/page-01.jpg",
+    "title": "原创示例页 01 · 空间观察",
+    "width": 1179,
+    "height": 1653,
+    "rotation": 0,
+    "rotate": 0,
+    "orientation": "portrait",
+    "kind": "original-demo-page",
+    "caption": "程序绘制的公开示例页；不是扫描原件。",
+    "limitations": [
+      "图形与文字为原创中性示例，不对应真实个人文件。"
+    ]
+  },
+  {
+    "id": "yongwai-02",
+    "src": "assets/yongwai-scanned/page-02.jpg",
+    "title": "原创示例页 02 · 形状组合",
+    "width": 1199,
+    "height": 1703,
+    "rotation": 0,
+    "rotate": 0,
+    "orientation": "portrait",
+    "kind": "original-demo-page",
+    "caption": "程序绘制的公开示例页；不是扫描原件。",
+    "limitations": [
+      "图形与文字为原创中性示例，不对应真实个人文件。"
+    ]
+  },
+  {
+    "id": "yongwai-03",
+    "src": "assets/yongwai-scanned/page-03.jpg",
+    "title": "原创示例页 03 · 留白练习",
+    "width": 1210,
+    "height": 1706,
+    "rotation": 0,
+    "rotate": 0,
+    "orientation": "portrait",
+    "kind": "original-demo-page",
+    "caption": "程序绘制的公开示例页；不是扫描原件。",
+    "limitations": [
+      "图形与文字为原创中性示例，不对应真实个人文件。"
+    ]
+  },
+  {
+    "id": "yongwai-04",
+    "src": "assets/yongwai-scanned/page-04.jpg",
+    "title": "原创示例页 04 · 颜色记录",
+    "width": 1201,
+    "height": 1657,
+    "rotation": 0,
+    "rotate": 0,
+    "orientation": "portrait",
+    "kind": "original-demo-page",
+    "caption": "程序绘制的公开示例页；不是扫描原件。",
+    "limitations": [
+      "图形与文字为原创中性示例，不对应真实个人文件。"
+    ]
+  },
+  {
+    "id": "yongwai-05",
+    "src": "assets/yongwai-scanned/page-05.jpg",
+    "title": "原创示例页 05 · 阅读指南",
+    "width": 1256,
+    "height": 1699,
+    "rotation": 0,
+    "rotate": 0,
+    "orientation": "portrait",
+    "kind": "original-demo-page",
+    "caption": "程序绘制的公开示例页；不是扫描原件。",
+    "limitations": [
+      "图形与文字为原创中性示例，不对应真实个人文件。"
+    ]
+  },
+  {
+    "id": "yongwai-06",
+    "src": "assets/yongwai-scanned/page-06.jpg",
+    "title": "原创示例页 06 · 物件说明",
+    "width": 1156,
+    "height": 1603,
+    "rotation": 0,
+    "rotate": 0,
+    "orientation": "portrait",
+    "kind": "original-demo-page",
+    "caption": "程序绘制的公开示例页；不是扫描原件。",
+    "limitations": [
+      "图形与文字为原创中性示例，不对应真实个人文件。"
+    ]
+  },
+  {
+    "id": "yongwai-07",
+    "src": "assets/yongwai-scanned/page-07.jpg",
+    "title": "原创示例页 07 · 纸张实验",
+    "width": 1203,
+    "height": 1707,
+    "rotation": 0,
+    "rotate": 0,
+    "orientation": "portrait",
+    "kind": "original-demo-page",
+    "caption": "程序绘制的公开示例页；不是扫描原件。",
+    "limitations": [
+      "图形与文字为原创中性示例，不对应真实个人文件。"
+    ]
+  },
+  {
+    "id": "yongwai-08",
+    "src": "assets/yongwai-scanned/page-08.jpg",
+    "title": "原创示例页 08 · 路径草图",
+    "width": 1138,
+    "height": 1674,
+    "rotation": 0,
+    "rotate": 0,
+    "orientation": "portrait",
+    "kind": "original-demo-page",
+    "caption": "程序绘制的公开示例页；不是扫描原件。",
+    "limitations": [
+      "图形与文字为原创中性示例，不对应真实个人文件。"
+    ]
+  },
+  {
+    "id": "yongwai-09",
+    "src": "assets/yongwai-scanned/page-09.jpg",
+    "title": "原创示例页 09 · 构图记录",
+    "width": 1150,
+    "height": 1575,
+    "rotation": 0,
+    "rotate": 0,
+    "orientation": "portrait",
+    "kind": "original-demo-page",
+    "caption": "程序绘制的公开示例页；不是扫描原件。",
+    "limitations": [
+      "图形与文字为原创中性示例，不对应真实个人文件。"
+    ]
+  },
+  {
+    "id": "yongwai-10",
+    "src": "assets/yongwai-scanned/page-10.jpg",
+    "title": "原创示例页 10 · 材料样张",
+    "width": 1227,
+    "height": 1706,
+    "rotation": 0,
+    "rotate": 0,
+    "orientation": "portrait",
+    "kind": "original-demo-page",
+    "caption": "程序绘制的公开示例页；不是扫描原件。",
+    "limitations": [
+      "图形与文字为原创中性示例，不对应真实个人文件。"
+    ]
+  },
+  {
+    "id": "yongwai-11",
+    "src": "assets/yongwai-scanned/page-11.jpg",
+    "title": "原创示例页 11 · 操作提示",
+    "width": 1708,
+    "height": 1002,
+    "rotation": 0,
+    "rotate": 0,
+    "orientation": "landscape",
+    "kind": "original-demo-page",
+    "caption": "程序绘制的公开示例页；不是扫描原件。",
+    "limitations": [
+      "图形与文字为原创中性示例，不对应真实个人文件。"
+    ]
+  },
+  {
+    "id": "yongwai-12",
+    "src": "assets/yongwai-scanned/page-12.jpg",
+    "title": "原创示例页 12 · 创作清单",
+    "width": 1243,
+    "height": 1706,
+    "rotation": 0,
+    "rotate": 0,
+    "orientation": "portrait",
+    "kind": "original-demo-page",
+    "caption": "程序绘制的公开示例页；不是扫描原件。",
+    "limitations": [
+      "图形与文字为原创中性示例，不对应真实个人文件。"
+    ]
+  }
+]

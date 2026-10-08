@@ -1,0 +1,540 @@
+{
+  "schemaVersion": 1,
+  "deltas": {
+    "BUVCard": [
+      -0.3654864801,
+      0.0271998891,
+      -0.17
+    ],
+    "LuckinCatCup": [
+      -0.35,
+      0,
+      0
+    ],
+    "McDonaldsDoraemonRoot": [
+      -0.40338,
+      0,
+      0.097
+    ],
+    "CSGoBox": [
+      -0.0524,
+      0.0002,
+      -0.13
+    ],
+    "NayukiFantasyBox": [
+      0,
+      0,
+      -0.22
+    ],
+    "TastienGanganCup": [
+      0,
+      0,
+      -0.22
+    ],
+    "LuckinBigFishCup": [
+      0,
+      0,
+      -0.22
+    ],
+    "IttoArtCard": [
+      -0.035,
+      0.0321999142,
+      -0.195
+    ],
+    "TastienBurgerBox": [
+      -0.64,
+      -0.0918500407,
+      -0.12
+    ],
+    "DeskFigurineRoot": [
+      0,
+      -0.0068,
+      0.08
+    ]
+  },
+  "supportDependencies": [
+    {
+      "lower": "NayukiFantasyBox",
+      "upper": [
+        "TastienGanganCup",
+        "LuckinBigFishCup"
+      ],
+      "moveUpperTogether": true
+    },
+    {
+      "lower": "TastienGanganCup",
+      "upper": [
+        "LuckinBigFishCup"
+      ]
+    },
+    {
+      "lower": "CSGoBox",
+      "upper": [
+        "TastienBurgerBox"
+      ]
+    },
+    {
+      "lower": "WadeLowerBox",
+      "upper": [
+        "WadeUpperBox"
+      ],
+      "additionalClearanceObject": "GimbalRoot",
+      "gimbalDelta": [
+        -0.08,
+        0,
+        0
+      ]
+    }
+  ],
+  "cardExtraction": {
+    "roots": [
+      "BUVCard",
+      "IttoArtCard"
+    ],
+    "firstLift": 0.028,
+    "frontRailTop": 2.84202,
+    "cardBottomAfterLift": 2.8452,
+    "minimumClearance": 0.00318
+  },
+  "mainExtractionLift": {
+    "WadeUpperBox": 0.5,
+    "WadeLowerBox": 0.86,
+    "NayukiFantasyBox": 0.32
+  },
+  "parking": {
+    "floorY": 1.1552,
+    "surface": "Refined_desk_|_wood_gray_ash_laminate",
+    "smallCenterXZ": [
+      -0.4,
+      0.47
+    ],
+    "wadeCenterXZ": [
+      -0.36,
+      0.35
+    ],
+    "wadeWorldYaw": 1.5707963267948966,
+    "cases": [
+      {
+        "name": "Park entire two-cup stack before Nayuki",
+        "names": [],
+        "anchor": [
+          0.9900000393390656,
+          3.6086000339367432,
+          -0.5409999948740005
+        ],
+        "initialBounds": {
+          "min": [
+            0.8640000224113464,
+            3.2246000434734863,
+            -0.6669999969005584
+          ],
+          "max": [
+            1.1160000562667847,
+            3.9926000244,
+            -0.4149999928474426
+          ]
+        },
+        "route": [
+          {
+            "center": [
+              0.9900000393390656,
+              3.633600033936743,
+              -0.5409999948740005
+            ],
+            "quaternion": [
+              0,
+              0,
+              0,
+              1
+            ]
+          },
+          {
+            "center": [
+              0.9900000393390656,
+              3.633600033936743,
+              0.47
+            ],
+            "quaternion": [
+              0,
+              0,
+              0,
+              1
+            ]
+          },
+          {
+            "center": [
+              -0.4,
+              3.633600033936743,
+              0.47
+            ],
+            "quaternion": [
+              0,
+              0,
+              0,
+              1
+            ]
+          },
+          {
+            "center": [
+              -0.4,
+              1.539199990463257,
+              0.47
+            ],
+            "quaternion": [
+              0,
+              0,
+              0,
+              1
+            ]
+          }
+        ],
+        "samples": 140,
+        "crossings": [],
+        "finalContact": {
+          "points": 80,
+          "contact": 80,
+          "surfaces": []
+        },
+        "restRoots": [
+          {
+            "name": "TastienGanganCup",
+            "p": [
+              0,
+              -0.0053999756,
+              -0.22
+            ],
+            "q": [
+              0,
+              0,
+              0,
+              1
+            ]
+          },
+          {
+            "name": "LuckinBigFishCup",
+            "p": [
+              0,
+              -0.0073999756,
+              -0.22
+            ],
+            "q": [
+              0,
+              0,
+              0,
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Park big-fish before yellow cup",
+        "names": [],
+        "anchor": [
+          0.9899999797344208,
+          3.7951000339367433,
+          -0.5409999948740005
+        ],
+        "initialBounds": {
+          "min": [
+            0.8679999709129333,
+            3.5976000434734865,
+            -0.6629999887943268
+          ],
+          "max": [
+            1.1119999885559082,
+            3.9926000244,
+            -0.4190000009536743
+          ]
+        },
+        "route": [
+          {
+            "center": [
+              0.9899999797344208,
+              3.8201000339367432,
+              -0.5409999948740005
+            ],
+            "quaternion": [
+              0,
+              0,
+              0,
+              1
+            ]
+          },
+          {
+            "center": [
+              0.9899999797344208,
+              3.8201000339367432,
+              0.47
+            ],
+            "quaternion": [
+              0,
+              0,
+              0,
+              1
+            ]
+          },
+          {
+            "center": [
+              -0.4,
+              3.8201000339367432,
+              0.47
+            ],
+            "quaternion": [
+              0,
+              0,
+              0,
+              1
+            ]
+          },
+          {
+            "center": [
+              -0.4,
+              1.3526999904632568,
+              0.47
+            ],
+            "quaternion": [
+              0,
+              0,
+              0,
+              1
+            ]
+          }
+        ],
+        "samples": 140,
+        "crossings": [],
+        "finalContact": {
+          "points": 80,
+          "contact": 80,
+          "surfaces": []
+        },
+        "restRoots": [
+          {
+            "name": "LuckinBigFishCup",
+            "p": [
+              0,
+              -0.0073999756,
+              -0.22
+            ],
+            "q": [
+              0,
+              0,
+              0,
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Park burger before CS",
+        "names": [],
+        "anchor": [
+          0.5828675484657287,
+          3.0691499726514406,
+          -0.47078249871730804
+        ],
+        "initialBounds": {
+          "min": [
+            0.4772000169754028,
+            2.9596200005750246,
+            -0.5139999938011169
+          ],
+          "max": [
+            0.6885350799560547,
+            3.1786799447278566,
+            -0.42756500363349914
+          ]
+        },
+        "route": [
+          {
+            "center": [
+              0.5828675484657287,
+              3.0941499726514405,
+              -0.47078249871730804
+            ],
+            "quaternion": [
+              0,
+              0,
+              0,
+              1
+            ]
+          },
+          {
+            "center": [
+              0.5828675484657287,
+              3.0941499726514405,
+              0.47
+            ],
+            "quaternion": [
+              0,
+              0,
+              0,
+              1
+            ]
+          },
+          {
+            "center": [
+              -0.4,
+              3.0941499726514405,
+              0.47
+            ],
+            "quaternion": [
+              0,
+              0,
+              0,
+              1
+            ]
+          },
+          {
+            "center": [
+              -0.4,
+              1.264729972076416,
+              0.47
+            ],
+            "quaternion": [
+              0,
+              0,
+              0,
+              1
+            ]
+          }
+        ],
+        "samples": 140,
+        "crossings": [],
+        "finalContact": {
+          "points": 45,
+          "contact": 45,
+          "surfaces": []
+        },
+        "restRoots": [
+          {
+            "name": "TastienBurgerBox",
+            "p": [
+              -0.64,
+              -0.0918500407,
+              -0.12
+            ],
+            "q": [
+              0,
+              0,
+              0,
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Park upper WADE with gimbal aside",
+        "names": [],
+        "anchor": [
+          0.06499999761581421,
+          3.438050084542175,
+          -0.8543000066280366
+        ],
+        "initialBounds": {
+          "min": [
+            -0.3025999963283539,
+            3.1815001301278074,
+            -1.0515999937057496
+          ],
+          "max": [
+            0.4325999915599823,
+            3.6946000389565428,
+            -0.6570000195503235
+          ]
+        },
+        "route": [
+          {
+            "center": [
+              0.06499999761581421,
+              3.938050084542175,
+              -0.8543000066280366
+            ],
+            "quaternion": [
+              0,
+              0,
+              0,
+              1
+            ]
+          },
+          {
+            "center": [
+              0.06499999761581421,
+              3.938050084542175,
+              0.55
+            ],
+            "quaternion": [
+              0,
+              0,
+              0,
+              1
+            ]
+          },
+          {
+            "center": [
+              0.06499999761581421,
+              3.938050084542175,
+              0.55
+            ],
+            "quaternion": [
+              0,
+              0.7071067811865475,
+              0,
+              0.7071067811865476
+            ]
+          },
+          {
+            "center": [
+              -0.36,
+              3.938050084542175,
+              0.35
+            ],
+            "quaternion": [
+              0,
+              0.7071067811865475,
+              0,
+              0.7071067811865476
+            ]
+          },
+          {
+            "center": [
+              -0.36,
+              1.4117499544143677,
+              0.35
+            ],
+            "quaternion": [
+              0,
+              0.7071067811865475,
+              0,
+              0.7071067811865476
+            ]
+          }
+        ],
+        "samples": 175,
+        "crossings": [],
+        "finalContact": {
+          "points": 20,
+          "contact": 20,
+          "surfaces": []
+        },
+        "restRoots": [
+          {
+            "name": "WadeUpperBox",
+            "p": [
+              0,
+              -0.031499929,
+              -0.14
+            ],
+            "q": [
+              0,
+              0,
+              0,
+              1
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "publicDemo": true,
+  "assetNotice": "Compatibility identifiers and layout only. Public assets are generic procedural replacements."
+}

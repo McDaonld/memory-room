@@ -1,0 +1,19 @@
+/* Load after styles.css. This is a loading design, never a fake room image. */
+#loading.entrance{z-index:30;display:grid;place-items:center;overflow:hidden;background:#172733;color:#e3e9e9;letter-spacing:0;transition:background 1.1s ease,opacity .2s ease;isolation:isolate}
+.entrance::before{content:"";position:absolute;inset:0;background:radial-gradient(ellipse at 54% 46%,#8fabb924,transparent 58%);opacity:.85;pointer-events:none;transition:opacity .8s ease}
+.entrance__seam{position:absolute;left:calc(50% + 134px);top:17vh;height:64vh;width:1px;background:linear-gradient(transparent,#dce8e2 19%,#b4cdda 75%,transparent);box-shadow:0 0 18px 3px #b6d0d632;transform:rotate(1.3deg);opacity:.8;transition:opacity .65s ease,transform 1.05s ease;pointer-events:none}
+.entrance__copy{position:relative;width:min(78vw,480px);padding-right:54px;transform:translateY(-9px);transition:opacity .5s ease,transform .85s ease;pointer-events:none}
+.entrance__eyebrow{margin:0 0 27px;font-size:10px;letter-spacing:.42em;color:#aabdc7;font-weight:400}
+.entrance__title{margin:0;font-family:"Memory Room Serif","Noto Serif SC","Songti SC","SimSun",serif;font-size:clamp(36px,5.4vw,68px);font-weight:400;letter-spacing:.15em;line-height:1.55}
+.entrance__rule{width:35px;height:1px;background:#bac8c8;margin:29px 0 22px;opacity:.55}
+.entrance__status{min-height:1.8em;margin:0;font-size:11px;letter-spacing:.11em;line-height:1.8;color:#99aeba;font-variant-numeric:tabular-nums}
+.entrance__skip{position:absolute;right:max(28px,env(safe-area-inset-right));bottom:max(28px,env(safe-area-inset-bottom));border:1px solid #d4e4ec35;background:#1b303ec4;color:#d8e4e9;font-size:11px;letter-spacing:.12em;border-radius:2px;padding:10px 16px;min-height:44px;pointer-events:auto;backdrop-filter:none;transition:opacity .15s}
+.entrance__skip:hover{background:#2e4858;color:white}
+#loading.entrance[data-state="entering"]{background:transparent;pointer-events:none}
+.entrance[data-state="entering"]::before,.entrance[data-state="entering"] .entrance__copy,.entrance[data-state="entering"] .entrance__seam{opacity:0}
+.entrance[data-state="entering"] .entrance__copy{transform:translateY(-17px)}
+.entrance[data-state="entering"] .entrance__seam{transform:translateX(32px) rotate(1.3deg)}
+#loading.entrance[data-state="finishing"]{opacity:0;pointer-events:none}
+#error{z-index:50}
+@media(max-width:599px){.entrance__seam{left:78%;top:21vh;height:58vh}.entrance__copy{width:76vw;padding-right:35px}.entrance__eyebrow{font-size:9px}.entrance__skip{right:20px;bottom:max(23px,env(safe-area-inset-bottom))}}
+@media(prefers-reduced-motion:reduce){#loading.entrance,.entrance *,.entrance::before{transition:none!important;animation:none!important}}

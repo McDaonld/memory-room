@@ -1,0 +1,380 @@
+{
+  "version": 1,
+  "kind": "original-public-example-text",
+  "displayLabel": "原创示例文字",
+  "documents": [
+    {
+      "id": "yongwai-01",
+      "title": "原创示例页 01 · 空间观察",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "形状的组合"
+        },
+        {
+          "type": "paragraph",
+          "text": "先观察轮廓，再寻找重复的形状。把复杂图案拆成圆、方形与三角形，可以更清楚地比较它们的关系。"
+        },
+        {
+          "type": "heading",
+          "text": "动手尝试"
+        },
+        {
+          "type": "paragraph",
+          "text": "用两个长方形和一个圆画出一个不对应真实品牌的桌面小物。"
+        },
+        {
+          "type": "paragraph",
+          "text": "一种方案是把长方形用作底座与支架，把圆用作灯罩。答案可以不同，关键是清楚表达形状关系。"
+        },
+        {
+          "type": "annotation",
+          "text": "原创公开示例文字。此页面不是对原扫描件的转录。"
+        }
+      ],
+      "displayLabel": "原创示例文字"
+    },
+    {
+      "id": "yongwai-02",
+      "title": "原创示例页 02 · 形状组合",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "给空间留白"
+        },
+        {
+          "type": "paragraph",
+          "text": "物体之间的空隙也是构图的一部分。移动一个物体时，观察它与边缘、邻近物和背景之间的距离。"
+        },
+        {
+          "type": "heading",
+          "text": "动手尝试"
+        },
+        {
+          "type": "paragraph",
+          "text": "画三个小方块，分别尝试均匀排列和疏密不同的排列。"
+        },
+        {
+          "type": "paragraph",
+          "text": "均匀排列更有秩序，疏密变化能形成视觉重点。这是示例观察，没有唯一正确的布局。"
+        },
+        {
+          "type": "annotation",
+          "text": "原创公开示例文字。此页面不是对原扫描件的转录。"
+        }
+      ],
+      "displayLabel": "原创示例文字"
+    },
+    {
+      "id": "yongwai-03",
+      "title": "原创示例页 03 · 留白练习",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "记录一次修改"
+        },
+        {
+          "type": "paragraph",
+          "text": "清楚的记录包括原状、修改、结果和下一步。每次只改变一个明显因素，更容易判断变化来自哪里。"
+        },
+        {
+          "type": "heading",
+          "text": "动手尝试"
+        },
+        {
+          "type": "paragraph",
+          "text": "写下一个按钮的原文字、改后文字和希望改善的问题。"
+        },
+        {
+          "type": "paragraph",
+          "text": "例如将“执行”改为“翻到下一页”，使按钮说明更具体；再观察读者是否能理解。"
+        },
+        {
+          "type": "annotation",
+          "text": "原创公开示例文字。此页面不是对原扫描件的转录。"
+        }
+      ],
+      "displayLabel": "原创示例文字"
+    },
+    {
+      "id": "yongwai-04",
+      "title": "原创示例页 04 · 颜色记录",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "比较明暗"
+        },
+        {
+          "type": "paragraph",
+          "text": "相同颜色放在不同背景上，观感可能不同。绘图时先安排明暗层次，再添加少量强调色。"
+        },
+        {
+          "type": "heading",
+          "text": "动手尝试"
+        },
+        {
+          "type": "paragraph",
+          "text": "画四个方格，给每格使用不同明度的灰色。"
+        },
+        {
+          "type": "paragraph",
+          "text": "四个方格从浅到深排列，可以作为检验画面层次的简单工具。"
+        },
+        {
+          "type": "annotation",
+          "text": "原创公开示例文字。此页面不是对原扫描件的转录。"
+        }
+      ],
+      "displayLabel": "原创示例文字"
+    },
+    {
+      "id": "yongwai-05",
+      "title": "原创示例页 05 · 阅读指南",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "简单的比例"
+        },
+        {
+          "type": "paragraph",
+          "text": "比较长度时，先确认使用同一单位。比例描述两个数量之间的关系，不需要让所有物体一样大。"
+        },
+        {
+          "type": "heading",
+          "text": "动手尝试"
+        },
+        {
+          "type": "paragraph",
+          "text": "一张卡片宽6厘米、高9厘米，宽高比是多少？"
+        },
+        {
+          "type": "paragraph",
+          "text": "6:9可化简为2:3。这里使用自定义示例数值。"
+        },
+        {
+          "type": "annotation",
+          "text": "原创公开示例文字。此页面不是对原扫描件的转录。"
+        }
+      ],
+      "displayLabel": "原创示例文字"
+    },
+    {
+      "id": "yongwai-06",
+      "title": "原创示例页 06 · 物件说明",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "描述一个路径"
+        },
+        {
+          "type": "paragraph",
+          "text": "可以用起点、转折点和终点描述一条路径。路径清楚以后，再考虑移动速度与停留时间。"
+        },
+        {
+          "type": "heading",
+          "text": "动手尝试"
+        },
+        {
+          "type": "paragraph",
+          "text": "用三个点描述从纸张左上角到右下角的路线。"
+        },
+        {
+          "type": "paragraph",
+          "text": "示例：左上角、页面中央、右下角。不同中间点会形成不同路线。"
+        },
+        {
+          "type": "annotation",
+          "text": "原创公开示例文字。此页面不是对原扫描件的转录。"
+        }
+      ],
+      "displayLabel": "原创示例文字"
+    },
+    {
+      "id": "yongwai-07",
+      "title": "原创示例页 07 · 纸张实验",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "形状的组合"
+        },
+        {
+          "type": "paragraph",
+          "text": "先观察轮廓，再寻找重复的形状。把复杂图案拆成圆、方形与三角形，可以更清楚地比较它们的关系。"
+        },
+        {
+          "type": "heading",
+          "text": "动手尝试"
+        },
+        {
+          "type": "paragraph",
+          "text": "用两个长方形和一个圆画出一个不对应真实品牌的桌面小物。"
+        },
+        {
+          "type": "paragraph",
+          "text": "一种方案是把长方形用作底座与支架，把圆用作灯罩。答案可以不同，关键是清楚表达形状关系。"
+        },
+        {
+          "type": "annotation",
+          "text": "原创公开示例文字。此页面不是对原扫描件的转录。"
+        }
+      ],
+      "displayLabel": "原创示例文字"
+    },
+    {
+      "id": "yongwai-08",
+      "title": "原创示例页 08 · 路径草图",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "给空间留白"
+        },
+        {
+          "type": "paragraph",
+          "text": "物体之间的空隙也是构图的一部分。移动一个物体时，观察它与边缘、邻近物和背景之间的距离。"
+        },
+        {
+          "type": "heading",
+          "text": "动手尝试"
+        },
+        {
+          "type": "paragraph",
+          "text": "画三个小方块，分别尝试均匀排列和疏密不同的排列。"
+        },
+        {
+          "type": "paragraph",
+          "text": "均匀排列更有秩序，疏密变化能形成视觉重点。这是示例观察，没有唯一正确的布局。"
+        },
+        {
+          "type": "annotation",
+          "text": "原创公开示例文字。此页面不是对原扫描件的转录。"
+        }
+      ],
+      "displayLabel": "原创示例文字"
+    },
+    {
+      "id": "yongwai-09",
+      "title": "原创示例页 09 · 构图记录",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "记录一次修改"
+        },
+        {
+          "type": "paragraph",
+          "text": "清楚的记录包括原状、修改、结果和下一步。每次只改变一个明显因素，更容易判断变化来自哪里。"
+        },
+        {
+          "type": "heading",
+          "text": "动手尝试"
+        },
+        {
+          "type": "paragraph",
+          "text": "写下一个按钮的原文字、改后文字和希望改善的问题。"
+        },
+        {
+          "type": "paragraph",
+          "text": "例如将“执行”改为“翻到下一页”，使按钮说明更具体；再观察读者是否能理解。"
+        },
+        {
+          "type": "annotation",
+          "text": "原创公开示例文字。此页面不是对原扫描件的转录。"
+        }
+      ],
+      "displayLabel": "原创示例文字"
+    },
+    {
+      "id": "yongwai-10",
+      "title": "原创示例页 10 · 材料样张",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "比较明暗"
+        },
+        {
+          "type": "paragraph",
+          "text": "相同颜色放在不同背景上，观感可能不同。绘图时先安排明暗层次，再添加少量强调色。"
+        },
+        {
+          "type": "heading",
+          "text": "动手尝试"
+        },
+        {
+          "type": "paragraph",
+          "text": "画四个方格，给每格使用不同明度的灰色。"
+        },
+        {
+          "type": "paragraph",
+          "text": "四个方格从浅到深排列，可以作为检验画面层次的简单工具。"
+        },
+        {
+          "type": "annotation",
+          "text": "原创公开示例文字。此页面不是对原扫描件的转录。"
+        }
+      ],
+      "displayLabel": "原创示例文字"
+    },
+    {
+      "id": "yongwai-11",
+      "title": "原创示例页 11 · 操作提示",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "简单的比例"
+        },
+        {
+          "type": "paragraph",
+          "text": "比较长度时，先确认使用同一单位。比例描述两个数量之间的关系，不需要让所有物体一样大。"
+        },
+        {
+          "type": "heading",
+          "text": "动手尝试"
+        },
+        {
+          "type": "paragraph",
+          "text": "一张卡片宽6厘米、高9厘米，宽高比是多少？"
+        },
+        {
+          "type": "paragraph",
+          "text": "6:9可化简为2:3。这里使用自定义示例数值。"
+        },
+        {
+          "type": "annotation",
+          "text": "原创公开示例文字。此页面不是对原扫描件的转录。"
+        }
+      ],
+      "displayLabel": "原创示例文字"
+    },
+    {
+      "id": "yongwai-12",
+      "title": "原创示例页 12 · 创作清单",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "描述一个路径"
+        },
+        {
+          "type": "paragraph",
+          "text": "可以用起点、转折点和终点描述一条路径。路径清楚以后，再考虑移动速度与停留时间。"
+        },
+        {
+          "type": "heading",
+          "text": "动手尝试"
+        },
+        {
+          "type": "paragraph",
+          "text": "用三个点描述从纸张左上角到右下角的路线。"
+        },
+        {
+          "type": "paragraph",
+          "text": "示例：左上角、页面中央、右下角。不同中间点会形成不同路线。"
+        },
+        {
+          "type": "annotation",
+          "text": "原创公开示例文字。此页面不是对原扫描件的转录。"
+        }
+      ],
+      "displayLabel": "原创示例文字"
+    }
+  ],
+  "handwrittenCatalog": []
+}

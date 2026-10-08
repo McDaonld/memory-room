@@ -1,0 +1,409 @@
+{
+  "version": 1,
+  "byRoot": {
+    "ShelfBook01": {
+      "root": "ShelfBook01",
+      "status": "example",
+      "publisher": "Memory Room",
+      "cover_year": null,
+      "links": [],
+      "note": "原创公开示例内容"
+    },
+    "ShelfBook02": {
+      "root": "ShelfBook02",
+      "status": "example",
+      "publisher": "Memory Room",
+      "cover_year": null,
+      "links": [],
+      "note": "原创公开示例内容"
+    },
+    "ShelfBook03": {
+      "root": "ShelfBook03",
+      "status": "example",
+      "publisher": "Memory Room",
+      "cover_year": null,
+      "links": [],
+      "note": "原创公开示例内容"
+    },
+    "ShelfBook04": {
+      "root": "ShelfBook04",
+      "status": "example",
+      "publisher": "Memory Room",
+      "cover_year": null,
+      "links": [],
+      "note": "原创公开示例内容"
+    },
+    "ShelfBook05": {
+      "root": "ShelfBook05",
+      "status": "example",
+      "publisher": "Memory Room",
+      "cover_year": null,
+      "links": [],
+      "note": "原创公开示例内容"
+    },
+    "ShelfBook06": {
+      "root": "ShelfBook06",
+      "status": "example",
+      "publisher": "Memory Room",
+      "cover_year": null,
+      "links": [],
+      "note": "原创公开示例内容"
+    },
+    "ShelfBook07": {
+      "root": "ShelfBook07",
+      "status": "example",
+      "publisher": "Memory Room",
+      "cover_year": null,
+      "links": [],
+      "note": "原创公开示例内容"
+    },
+    "ShelfBook08": {
+      "root": "ShelfBook08",
+      "status": "example",
+      "publisher": "Memory Room",
+      "cover_year": null,
+      "links": [],
+      "note": "原创公开示例内容"
+    },
+    "ShelfBook09": {
+      "root": "ShelfBook09",
+      "status": "example",
+      "publisher": "Memory Room",
+      "cover_year": null,
+      "links": [],
+      "note": "原创公开示例内容"
+    },
+    "ShelfBook10": {
+      "root": "ShelfBook10",
+      "status": "example",
+      "publisher": "Memory Room",
+      "cover_year": null,
+      "links": [],
+      "note": "原创公开示例内容"
+    },
+    "ShelfBook11": {
+      "root": "ShelfBook11",
+      "status": "example",
+      "publisher": "Memory Room",
+      "cover_year": null,
+      "links": [],
+      "note": "原创公开示例内容"
+    },
+    "ShelfBook12": {
+      "root": "ShelfBook12",
+      "status": "example",
+      "publisher": "Memory Room",
+      "cover_year": null,
+      "links": [],
+      "note": "原创公开示例内容"
+    },
+    "ShelfBook13": {
+      "root": "ShelfBook13",
+      "status": "example",
+      "publisher": "Memory Room",
+      "cover_year": null,
+      "links": [],
+      "note": "原创公开示例内容"
+    },
+    "ShelfBook14": {
+      "root": "ShelfBook14",
+      "status": "example",
+      "publisher": "Memory Room",
+      "cover_year": null,
+      "links": [],
+      "note": "原创公开示例内容"
+    },
+    "ShelfBook15": {
+      "root": "ShelfBook15",
+      "status": "example",
+      "publisher": "Memory Room",
+      "cover_year": null,
+      "links": [],
+      "note": "原创公开示例内容"
+    },
+    "ShelfBook16": {
+      "root": "ShelfBook16",
+      "status": "example",
+      "publisher": "Memory Room",
+      "cover_year": null,
+      "links": [],
+      "note": "原创公开示例内容"
+    },
+    "ShelfBook17": {
+      "root": "ShelfBook17",
+      "status": "example",
+      "publisher": "Memory Room",
+      "cover_year": null,
+      "links": [],
+      "note": "原创公开示例内容"
+    },
+    "ShelfBook18": {
+      "root": "ShelfBook18",
+      "status": "example",
+      "publisher": "Memory Room",
+      "cover_year": null,
+      "links": [],
+      "note": "原创公开示例内容"
+    },
+    "ShelfBook19": {
+      "root": "ShelfBook19",
+      "status": "example",
+      "publisher": "Memory Room",
+      "cover_year": null,
+      "links": [],
+      "note": "原创公开示例内容"
+    },
+    "ShelfBook20": {
+      "root": "ShelfBook20",
+      "status": "example",
+      "publisher": "Memory Room",
+      "cover_year": null,
+      "links": [],
+      "note": "原创公开示例内容"
+    },
+    "ShelfBook21": {
+      "root": "ShelfBook21",
+      "status": "example",
+      "publisher": "Memory Room",
+      "cover_year": null,
+      "links": [],
+      "note": "原创公开示例内容"
+    },
+    "ShelfBook22": {
+      "root": "ShelfBook22",
+      "status": "example",
+      "publisher": "Memory Room",
+      "cover_year": null,
+      "links": [],
+      "note": "原创公开示例内容"
+    },
+    "FlatBook01": {
+      "root": "FlatBook01",
+      "status": "example",
+      "publisher": "Memory Room",
+      "cover_year": null,
+      "links": [],
+      "note": "原创公开示例内容"
+    },
+    "FlatBook02": {
+      "root": "FlatBook02",
+      "status": "example",
+      "publisher": "Memory Room",
+      "cover_year": null,
+      "links": [],
+      "note": "原创公开示例内容"
+    },
+    "FlatBook03": {
+      "root": "FlatBook03",
+      "status": "example",
+      "publisher": "Memory Room",
+      "cover_year": null,
+      "links": [],
+      "note": "原创公开示例内容"
+    },
+    "FlatBook04": {
+      "root": "FlatBook04",
+      "status": "example",
+      "publisher": "Memory Room",
+      "cover_year": null,
+      "links": [],
+      "note": "原创公开示例内容"
+    },
+    "FlatBook05": {
+      "root": "FlatBook05",
+      "status": "example",
+      "publisher": "Memory Room",
+      "cover_year": null,
+      "links": [],
+      "note": "原创公开示例内容"
+    },
+    "FlatBook06": {
+      "root": "FlatBook06",
+      "status": "example",
+      "publisher": "Memory Room",
+      "cover_year": null,
+      "links": [],
+      "note": "原创公开示例内容"
+    },
+    "FlatBook07": {
+      "root": "FlatBook07",
+      "status": "example",
+      "publisher": "Memory Room",
+      "cover_year": null,
+      "links": [],
+      "note": "原创公开示例内容"
+    },
+    "FlatBook08": {
+      "root": "FlatBook08",
+      "status": "example",
+      "publisher": "Memory Room",
+      "cover_year": null,
+      "links": [],
+      "note": "原创公开示例内容"
+    },
+    "FlatBook09": {
+      "root": "FlatBook09",
+      "status": "example",
+      "publisher": "Memory Room",
+      "cover_year": null,
+      "links": [],
+      "note": "原创公开示例内容"
+    },
+    "FlatBook10": {
+      "root": "FlatBook10",
+      "status": "example",
+      "publisher": "Memory Room",
+      "cover_year": null,
+      "links": [],
+      "note": "原创公开示例内容"
+    },
+    "FlatBook11": {
+      "root": "FlatBook11",
+      "status": "example",
+      "publisher": "Memory Room",
+      "cover_year": null,
+      "links": [],
+      "note": "原创公开示例内容"
+    },
+    "FlatBook12": {
+      "root": "FlatBook12",
+      "status": "example",
+      "publisher": "Memory Room",
+      "cover_year": null,
+      "links": [],
+      "note": "原创公开示例内容"
+    },
+    "FlatBook13": {
+      "root": "FlatBook13",
+      "status": "example",
+      "publisher": "Memory Room",
+      "cover_year": null,
+      "links": [],
+      "note": "原创公开示例内容"
+    },
+    "FlatBook14": {
+      "root": "FlatBook14",
+      "status": "example",
+      "publisher": "Memory Room",
+      "cover_year": null,
+      "links": [],
+      "note": "原创公开示例内容"
+    },
+    "FlatBook15": {
+      "root": "FlatBook15",
+      "status": "example",
+      "publisher": "Memory Room",
+      "cover_year": null,
+      "links": [],
+      "note": "原创公开示例内容"
+    },
+    "FlatBook16": {
+      "root": "FlatBook16",
+      "status": "example",
+      "publisher": "Memory Room",
+      "cover_year": null,
+      "links": [],
+      "note": "原创公开示例内容"
+    },
+    "FlatBook17": {
+      "root": "FlatBook17",
+      "status": "example",
+      "publisher": "Memory Room",
+      "cover_year": null,
+      "links": [],
+      "note": "原创公开示例内容"
+    },
+    "FlatBook18": {
+      "root": "FlatBook18",
+      "status": "example",
+      "publisher": "Memory Room",
+      "cover_year": null,
+      "links": [],
+      "note": "原创公开示例内容"
+    },
+    "FlatBook19": {
+      "root": "FlatBook19",
+      "status": "example",
+      "publisher": "Memory Room",
+      "cover_year": null,
+      "links": [],
+      "note": "原创公开示例内容"
+    },
+    "FlatBook20": {
+      "root": "FlatBook20",
+      "status": "example",
+      "publisher": "Memory Room",
+      "cover_year": null,
+      "links": [],
+      "note": "原创公开示例内容"
+    },
+    "FlatBook21": {
+      "root": "FlatBook21",
+      "status": "example",
+      "publisher": "Memory Room",
+      "cover_year": null,
+      "links": [],
+      "note": "原创公开示例内容"
+    },
+    "FlatBook22": {
+      "root": "FlatBook22",
+      "status": "example",
+      "publisher": "Memory Room",
+      "cover_year": null,
+      "links": [],
+      "note": "原创公开示例内容"
+    },
+    "TopFolder01": {
+      "root": "TopFolder01",
+      "status": "example",
+      "publisher": "Memory Room",
+      "cover_year": null,
+      "links": [],
+      "note": "原创公开示例内容"
+    },
+    "TopFolder02": {
+      "root": "TopFolder02",
+      "status": "example",
+      "publisher": "Memory Room",
+      "cover_year": null,
+      "links": [],
+      "note": "原创公开示例内容"
+    },
+    "BridgeBookRoot": {
+      "root": "BridgeBookRoot",
+      "status": "example",
+      "publisher": "Memory Room",
+      "cover_year": null,
+      "links": [],
+      "note": "原创公开示例内容"
+    },
+    "BinderRight01": {
+      "root": "BinderRight01",
+      "status": "example",
+      "publisher": "Memory Room",
+      "cover_year": null,
+      "links": [],
+      "note": "原创公开示例内容"
+    },
+    "BinderRight02": {
+      "root": "BinderRight02",
+      "status": "example",
+      "publisher": "Memory Room",
+      "cover_year": null,
+      "links": [],
+      "note": "原创公开示例内容"
+    },
+    "BinderRight03": {
+      "root": "BinderRight03",
+      "status": "example",
+      "publisher": "Memory Room",
+      "cover_year": null,
+      "links": [],
+      "note": "原创公开示例内容"
+    }
+  },
+  "officialTextbooks": {
+    "url": "",
+    "label": ""
+  }
+}

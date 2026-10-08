@@ -1,0 +1,164 @@
+{
+  "roots": [
+    "BUVCardStandRoot",
+    "IttoArtCardStandRoot"
+  ],
+  "parts": [
+    {
+      "name": "BUVCardStandRoot",
+      "parts": [
+        {
+          "name": "BUVCardStandRootBase",
+          "center": [
+            -0.38148648,
+            2.81302,
+            -0.494925
+          ],
+          "size": [
+            0.18,
+            0.008,
+            0.055
+          ]
+        },
+        {
+          "name": "BUVCardStandRootFrontRail",
+          "center": [
+            -0.38148648,
+            2.82952,
+            -0.49145000000000005
+          ],
+          "size": [
+            0.18,
+            0.025,
+            0.0015
+          ]
+        },
+        {
+          "name": "BUVCardStandRootBackRail",
+          "center": [
+            -0.38148648,
+            2.82952,
+            -0.49834999999999996
+          ],
+          "size": [
+            0.18,
+            0.025,
+            0.0015
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IttoArtCardStandRoot",
+      "parts": [
+        {
+          "name": "IttoArtCardStandRootBase",
+          "center": [
+            1.197,
+            2.81302,
+            -0.452
+          ],
+          "size": [
+            0.154,
+            0.008,
+            0.112
+          ]
+        },
+        {
+          "name": "IttoArtCardStandRootFrontRail",
+          "center": [
+            1.197,
+            2.82952,
+            -0.39755
+          ],
+          "size": [
+            0.154,
+            0.025,
+            0.0015
+          ]
+        },
+        {
+          "name": "IttoArtCardStandRootBackRail",
+          "center": [
+            1.197,
+            2.82027,
+            -0.40835
+          ],
+          "size": [
+            0.154,
+            0.0065,
+            0.0015
+          ]
+        },
+        {
+          "name": "IttoArtCardStandRootRearFootPad",
+          "center": [
+            1.197,
+            2.82077,
+            -0.451
+          ],
+          "size": [
+            0.15,
+            0.0075,
+            0.076
+          ]
+        }
+      ]
+    }
+  ],
+  "poseDeltas": {
+    "BUVCard": [
+      -0.3654864801,
+      0.0271998891,
+      -0.17
+    ],
+    "LuckinCatCup": [
+      -0.35,
+      0,
+      0
+    ],
+    "McDonaldsDoraemonRoot": [
+      -0.40338,
+      0,
+      0.097
+    ],
+    "CSGoBox": [
+      -0.0524,
+      0.0002,
+      -0.13
+    ],
+    "NayukiFantasyBox": [
+      0,
+      0,
+      -0.22
+    ],
+    "TastienGanganCup": [
+      0,
+      0,
+      -0.22
+    ],
+    "LuckinBigFishCup": [
+      0,
+      0,
+      -0.22
+    ],
+    "IttoArtCard": [
+      -0.035,
+      0.0321999142,
+      -0.195
+    ],
+    "TastienBurgerBox": [
+      -0.64,
+      -0.0918500407,
+      -0.12
+    ],
+    "DeskFigurineRoot": [
+      0,
+      -0.0068,
+      0.08
+    ]
+  },
+  "supportToleranceMetres": 0.0002,
+  "publicDemo": true,
+  "assetNotice": "Compatibility identifiers and layout only. Public assets are generic procedural replacements."
+}

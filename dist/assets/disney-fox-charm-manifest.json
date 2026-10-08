@@ -1,0 +1,71 @@
+{
+  "asset": "disney-fox-charm.glb",
+  "root": "DisneyFoxCharmRoot",
+  "replaceRoot": "OrangePlushCharmRoot",
+  "parentRoot": "JordanBackpackRoot",
+  "localAttachmentAnchor": [
+    0.214,
+    -0.224,
+    0.148
+  ],
+  "rootWorldPosition": [
+    -1.4040000438690186,
+    1.8639999628067017,
+    -0.21699999272823334
+  ],
+  "rootWorldQuaternion": [
+    0,
+    0,
+    0,
+    1
+  ],
+  "rootScale": [
+    1,
+    1,
+    1
+  ],
+  "plushPivot": "FoxCharmPlushPivot",
+  "plushLocalPosition": [
+    0.06199999898672104,
+    -0.15000000596046448,
+    0.06400000303983688
+  ],
+  "plushLocalQuaternion": [
+    0,
+    0.9659258262890683,
+    0,
+    0.25881904510252074
+  ],
+  "attachmentNode": "FoxCharmAttachmentPoint",
+  "localBounds": {
+    "min": [
+      -0.0075523764826357365,
+      -0.3009999692440033,
+      -0.013211824931204319
+    ],
+    "max": [
+      0.13910023868083954,
+      0.008146622218191624,
+      0.13997022807598114
+    ]
+  },
+  "dimensions": [
+    0.14665261516347528,
+    0.3091465914621949,
+    0.15318205300718546
+  ],
+  "claspPivot": "FoxCharmClaspPivot",
+  "claspLocalPosition": [
+    0.001,
+    0.006,
+    0.002
+  ],
+  "claspLocalQuaternion": [
+    0,
+    0.7071067811865475,
+    0,
+    0.7071067811865476
+  ],
+  "publicDemo": true,
+  "assetNotice": "Compatibility identifiers and layout only. Public assets are generic procedural replacements."
+}
